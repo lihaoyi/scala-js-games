@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: ch.epfl.lamp:scalajs-compiler_2.10:0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-compiler_2.10/0.1-SNAPSHOT/jars/scalajs-compiler_2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-compiler_2.10/0.1-SNAPSHOT/docs/scalajs-compiler_2.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-compiler_2.10/0.1-SNAPSHOT/srcs/scalajs-compiler_2.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
