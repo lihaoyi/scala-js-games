@@ -5,12 +5,14 @@
     <ignored path="scala-js-example-app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381604610729" ignored="false" />
-    <file path="/ScalaJSExample.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381650905523" ignored="false" />
+    <file path="/ScalaJSExample.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381663128244" ignored="false" />
     <file path="$PROJECT_DIR$/../scala-js-ts-importer/src/test/resources/lib.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1380696682755" ignored="false" />
     <file path="/lib.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381647941501" ignored="false" />
     <file path="/Build.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1380773435272" ignored="false" />
     <file path="/Build.Scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381642883122" ignored="false" />
     <file path="/index-dev.html" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381647390021" ignored="false" />
+    <file path="/Html.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381655050387" ignored="false" />
+    <file path="/index.html" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381663275277" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,28 +72,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.sbt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/build.sbt">
+      <file leaf-file-name="Html.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Html.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+            <state line="563" column="1" selection-start="19157" selection-end="19157" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#3673#3703#0" expanded="false" />
+                <element signature="e#3965#5034#0" expanded="false" />
+                <element signature="e#12510#13261#0" expanded="false" />
+                <element signature="e#14168#15321#0" expanded="false" />
+                <element signature="e#27557#27639#0" expanded="false" />
+                <element signature="e#28014#28123#0" expanded="false" />
+                <element signature="e#28236#28344#0" expanded="false" />
+                <element signature="e#28389#30190#0" expanded="false" />
+                <element signature="e#42356#43542#0" expanded="false" />
+                <element signature="e#44314#44451#0" expanded="false" />
+                <element signature="e#44682#45400#0" expanded="false" />
+                <element signature="e#45633#45636#0" expanded="false" />
+                <element signature="e#45679#45789#0" expanded="false" />
+                <element signature="e#45833#45865#0" expanded="false" />
+                <element signature="e#45908#46018#0" expanded="false" />
+                <element signature="e#46141#46254#0" expanded="false" />
+                <element signature="e#46330#47117#0" expanded="false" />
+                <element signature="e#47160#47270#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Css.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Css.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="314" column="57" selection-start="11427" selection-end="11427" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lib.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/lib.scala">
+      <file leaf-file-name="Ms.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Ms.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1380" column="6" selection-start="51487" selection-end="51487" vertical-scroll-proportion="-10.28">
-              <folding />
+            <state line="48" column="6" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#55#1537#0" expanded="false" />
+                <element signature="e#1576#1579#0" expanded="false" />
+                <element signature="e#2293#3544#0" expanded="false" />
+                <element signature="e#4636#4895#0" expanded="false" />
+                <element signature="e#4930#5030#0" expanded="false" />
+                <element signature="e#5066#5169#0" expanded="false" />
+                <element signature="e#5209#5388#0" expanded="false" />
+                <element signature="e#5429#5537#0" expanded="false" />
+                <element signature="e#5665#5700#0" expanded="false" />
+                <element signature="e#7245#8543#0" expanded="false" />
+                <element signature="e#8585#8904#0" expanded="false" />
+                <element signature="e#9184#9370#0" expanded="false" />
+                <element signature="e#9423#10018#0" expanded="false" />
+                <element signature="e#10408#10617#0" expanded="false" />
+                <element signature="e#10656#10762#0" expanded="false" />
+                <element signature="e#10829#10995#0" expanded="false" />
+                <element signature="e#11919#13490#0" expanded="false" />
+                <element signature="e#13682#13983#0" expanded="false" />
+                <element signature="e#14024#14132#0" expanded="false" />
+                <element signature="e#14182#14277#0" expanded="false" />
+                <element signature="e#14323#14428#0" expanded="false" />
+                <element signature="e#14475#14589#0" expanded="false" />
+                <element signature="e#15014#15206#0" expanded="false" />
+                <element signature="e#15261#15383#0" expanded="false" />
+                <element signature="e#15655#15834#0" expanded="false" />
+                <element signature="e#15876#15939#0" expanded="false" />
+                <element signature="e#15983#16094#0" expanded="false" />
+                <element signature="e#16146#16284#0" expanded="false" />
+                <element signature="e#16336#16806#0" expanded="false" />
+                <element signature="e#16859#16979#0" expanded="false" />
+                <element signature="e#17218#17392#0" expanded="false" />
+                <element signature="e#17886#20097#0" expanded="false" />
+                <element signature="e#20148#20225#0" expanded="false" />
+                <element signature="e#20277#20396#0" expanded="false" />
+                <element signature="e#20444#20886#0" expanded="false" />
+                <element signature="e#21182#21266#0" expanded="false" />
+                <element signature="e#21320#21441#0" expanded="false" />
+                <element signature="e#21482#22188#0" expanded="false" />
+                <element signature="e#22221#23956#0" expanded="false" />
+                <element signature="e#23994#24099#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScalaJSExample.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ScalaJSExample.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="2" selection-start="2337" selection-end="2337" vertical-scroll-proportion="0.41161928">
+            <state line="90" column="4" selection-start="2807" selection-end="2901" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#16#33#0" expanded="true" />
               </folding>
@@ -99,34 +170,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/package.scala">
+      <file leaf-file-name="startup.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/startup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="0" selection-start="2502" selection-end="2502" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameLibrary.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Archive/Coding/Java Test Folder/GameLibrary/GameLibrary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="366" column="42" selection-start="13877" selection-end="13877" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0001-Function2$mcIIJ$sp$class.js.map" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/jars/scalajs-library_2.10.jar!/scala/0001-Function2$mcIIJ$sp$class.js.map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-dev.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-dev.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="-11.769231">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -134,16 +202,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="9" column="58" selection-start="224" selection-end="224" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Function.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Function.scala">
+      <file leaf-file-name="index-dev.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-dev.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="6" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
+            <state line="9" column="4" selection-start="170" selection-end="224" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
@@ -152,19 +220,10 @@
       <file leaf-file-name="Primitives.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Primitives.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="256" column="13" selection-start="8335" selection-end="8335" vertical-scroll-proportion="0.0">
+            <state line="20" column="2" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/build.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -195,8 +254,14 @@
         <option value="$PROJECT_DIR$/src/main/scala/js/lib.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scala/js/package.scala" />
         <option value="$PROJECT_DIR$/index-dev.html" />
+        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Css.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Idb.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Ms.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Svg.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scala/js/lib.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Html.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -371,6 +436,10 @@
               <option name="myItemId" value="example" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaJSExample.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -382,7 +451,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -471,7 +540,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -485,7 +554,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23625" sideWeight="0.6642247" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.481875" sideWeight="0.6642247" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -556,68 +625,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/jars/scalajs-library_2.10.jar!/scala/js/0002-Dynamic$.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/jars/scalajs-library_2.10.jar!/scala/collection/0001-BitSet$class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="15" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/jars/scalajs-library_2.10.jar!/scalajs-corejslib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/jars/scalajs-library_2.10.jar!/scala/0001-Function2$mcIIJ$sp$class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/jars/scalajs-library_2.10.jar!/scala/0001-Function2$mcIIJ$sp$class.js.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
@@ -629,38 +636,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="54" column="0" selection-start="2502" selection-end="2502" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-dev.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="-11.769231">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Primitives.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="256" column="13" selection-start="8335" selection-end="8335" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/lib.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1380" column="6" selection-start="51487" selection-end="51487" vertical-scroll-proportion="-10.28">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,12 +648,250 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Svg.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1569" column="0" selection-start="61216" selection-end="61216" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#57#99#0" expanded="false" />
+            <element signature="e#156#253#0" expanded="false" />
+            <element signature="e#567#1222#0" expanded="false" />
+            <element signature="e#5455#5516#0" expanded="false" />
+            <element signature="e#5561#5673#0" expanded="false" />
+            <element signature="e#5708#5896#0" expanded="false" />
+            <element signature="e#7757#7760#0" expanded="false" />
+            <element signature="e#7803#7913#0" expanded="false" />
+            <element signature="e#7964#8039#0" expanded="false" />
+            <element signature="e#8091#8210#0" expanded="false" />
+            <element signature="e#8252#8352#0" expanded="false" />
+            <element signature="e#9000#9069#0" expanded="false" />
+            <element signature="e#9118#9234#0" expanded="false" />
+            <element signature="e#9291#9378#0" expanded="false" />
+            <element signature="e#9436#9561#0" expanded="false" />
+            <element signature="e#9616#9675#0" expanded="false" />
+            <element signature="e#11946#12137#0" expanded="false" />
+            <element signature="e#12181#12292#0" expanded="false" />
+            <element signature="e#12335#12903#0" expanded="false" />
+            <element signature="e#12947#13058#0" expanded="false" />
+            <element signature="e#13313#13374#0" expanded="false" />
+            <element signature="e#13419#13531#0" expanded="false" />
+            <element signature="e#13575#13648#0" expanded="false" />
+            <element signature="e#13795#13798#0" expanded="false" />
+            <element signature="e#13840#13949#0" expanded="false" />
+            <element signature="e#14006#14032#0" expanded="false" />
+            <element signature="e#14089#14213#0" expanded="false" />
+            <element signature="e#14363#14494#0" expanded="false" />
+            <element signature="e#14539#14651#0" expanded="false" />
+            <element signature="e#14816#14855#0" expanded="false" />
+            <element signature="e#14894#15000#0" expanded="false" />
+            <element signature="e#15163#15212#0" expanded="false" />
+            <element signature="e#15251#15313#0" expanded="false" />
+            <element signature="e#16076#18375#0" expanded="false" />
+            <element signature="e#19080#19083#0" expanded="false" />
+            <element signature="e#19126#19236#0" expanded="false" />
+            <element signature="e#19291#19317#0" expanded="false" />
+            <element signature="e#19372#19494#0" expanded="false" />
+            <element signature="e#21221#21412#0" expanded="false" />
+            <element signature="e#22473#23218#0" expanded="false" />
+            <element signature="e#24028#24140#0" expanded="false" />
+            <element signature="e#24391#24511#0" expanded="false" />
+            <element signature="e#25467#25718#0" expanded="false" />
+            <element signature="e#26953#26990#0" expanded="false" />
+            <element signature="e#28072#29107#0" expanded="false" />
+            <element signature="e#29142#29172#0" expanded="false" />
+            <element signature="e#31934#32043#0" expanded="false" />
+            <element signature="e#34207#34352#0" expanded="false" />
+            <element signature="e#34405#34525#0" expanded="false" />
+            <element signature="e#35152#35858#0" expanded="false" />
+            <element signature="e#38276#38325#0" expanded="false" />
+            <element signature="e#38388#38518#0" expanded="false" />
+            <element signature="e#38577#38674#0" expanded="false" />
+            <element signature="e#38733#38859#0" expanded="false" />
+            <element signature="e#38899#39323#0" expanded="false" />
+            <element signature="e#39364#39472#0" expanded="false" />
+            <element signature="e#39646#39649#0" expanded="false" />
+            <element signature="e#39695#39808#0" expanded="false" />
+            <element signature="e#39854#39895#0" expanded="false" />
+            <element signature="e#42792#42841#0" expanded="false" />
+            <element signature="e#43418#43421#0" expanded="false" />
+            <element signature="e#43465#43576#0" expanded="false" />
+            <element signature="e#43625#44407#0" expanded="false" />
+            <element signature="e#44457#45293#0" expanded="false" />
+            <element signature="e#48450#48832#0" expanded="false" />
+            <element signature="e#48877#49263#0" expanded="false" />
+            <element signature="e#49350#49353#0" expanded="false" />
+            <element signature="e#49398#49510#0" expanded="false" />
+            <element signature="e#49560#49656#0" expanded="false" />
+            <element signature="e#49706#49823#0" expanded="false" />
+            <element signature="e#49917#50125#0" expanded="false" />
+            <element signature="e#50177#50296#0" expanded="false" />
+            <element signature="e#50361#50533#0" expanded="false" />
+            <element signature="e#56471#56860#0" expanded="false" />
+            <element signature="e#56909#57215#0" expanded="false" />
+            <element signature="e#57264#57380#0" expanded="false" />
+            <element signature="e#59425#59461#0" expanded="false" />
+            <element signature="e#59518#59642#0" expanded="false" />
+            <element signature="e#59739#59956#0" expanded="false" />
+            <element signature="e#60186#60471#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Idb.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="186" column="0" selection-start="7616" selection-end="7616" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#57#1005#0" expanded="false" />
+            <element signature="e#1200#1267#0" expanded="false" />
+            <element signature="e#1316#1432#0" expanded="false" />
+            <element signature="e#2951#2978#0" expanded="false" />
+            <element signature="e#3024#3137#0" expanded="false" />
+            <element signature="e#3178#3247#0" expanded="false" />
+            <element signature="e#6998#7472#0" expanded="false" />
+            <element signature="e#7510#7615#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/lib.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="874" column="0" selection-start="39047" selection-end="39047" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Ms.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="6" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#55#1537#0" expanded="false" />
+            <element signature="e#1576#1579#0" expanded="false" />
+            <element signature="e#2293#3544#0" expanded="false" />
+            <element signature="e#4636#4895#0" expanded="false" />
+            <element signature="e#4930#5030#0" expanded="false" />
+            <element signature="e#5066#5169#0" expanded="false" />
+            <element signature="e#5209#5388#0" expanded="false" />
+            <element signature="e#5429#5537#0" expanded="false" />
+            <element signature="e#5665#5700#0" expanded="false" />
+            <element signature="e#7245#8543#0" expanded="false" />
+            <element signature="e#8585#8904#0" expanded="false" />
+            <element signature="e#9184#9370#0" expanded="false" />
+            <element signature="e#9423#10018#0" expanded="false" />
+            <element signature="e#10408#10617#0" expanded="false" />
+            <element signature="e#10656#10762#0" expanded="false" />
+            <element signature="e#10829#10995#0" expanded="false" />
+            <element signature="e#11919#13490#0" expanded="false" />
+            <element signature="e#13682#13983#0" expanded="false" />
+            <element signature="e#14024#14132#0" expanded="false" />
+            <element signature="e#14182#14277#0" expanded="false" />
+            <element signature="e#14323#14428#0" expanded="false" />
+            <element signature="e#14475#14589#0" expanded="false" />
+            <element signature="e#15014#15206#0" expanded="false" />
+            <element signature="e#15261#15383#0" expanded="false" />
+            <element signature="e#15655#15834#0" expanded="false" />
+            <element signature="e#15876#15939#0" expanded="false" />
+            <element signature="e#15983#16094#0" expanded="false" />
+            <element signature="e#16146#16284#0" expanded="false" />
+            <element signature="e#16336#16806#0" expanded="false" />
+            <element signature="e#16859#16979#0" expanded="false" />
+            <element signature="e#17218#17392#0" expanded="false" />
+            <element signature="e#17886#20097#0" expanded="false" />
+            <element signature="e#20148#20225#0" expanded="false" />
+            <element signature="e#20277#20396#0" expanded="false" />
+            <element signature="e#20444#20886#0" expanded="false" />
+            <element signature="e#21182#21266#0" expanded="false" />
+            <element signature="e#21320#21441#0" expanded="false" />
+            <element signature="e#21482#22188#0" expanded="false" />
+            <element signature="e#22221#23956#0" expanded="false" />
+            <element signature="e#23994#24099#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Css.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="314" column="57" selection-start="11427" selection-end="11427" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Html.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="563" column="1" selection-start="19157" selection-end="19157" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#3673#3703#0" expanded="false" />
+            <element signature="e#3965#5034#0" expanded="false" />
+            <element signature="e#12510#13261#0" expanded="false" />
+            <element signature="e#14168#15321#0" expanded="false" />
+            <element signature="e#27557#27639#0" expanded="false" />
+            <element signature="e#28014#28123#0" expanded="false" />
+            <element signature="e#28236#28344#0" expanded="false" />
+            <element signature="e#28389#30190#0" expanded="false" />
+            <element signature="e#42356#43542#0" expanded="false" />
+            <element signature="e#44314#44451#0" expanded="false" />
+            <element signature="e#44682#45400#0" expanded="false" />
+            <element signature="e#45633#45636#0" expanded="false" />
+            <element signature="e#45679#45789#0" expanded="false" />
+            <element signature="e#45833#45865#0" expanded="false" />
+            <element signature="e#45908#46018#0" expanded="false" />
+            <element signature="e#46141#46254#0" expanded="false" />
+            <element signature="e#46330#47117#0" expanded="false" />
+            <element signature="e#47160#47270#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Primitives.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="2" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Archive/Coding/Java Test Folder/GameLibrary/GameLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="366" column="42" selection-start="13877" selection-end="13877" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-dev.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="170" selection-end="224" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="2" selection-start="2337" selection-end="2337" vertical-scroll-proportion="0.41161928">
+        <state line="90" column="4" selection-start="2807" selection-end="2901" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#16#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="58" selection-start="224" selection-end="224" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/startup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
