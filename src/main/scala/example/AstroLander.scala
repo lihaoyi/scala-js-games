@@ -130,11 +130,13 @@ case class AstroLander(bounds: Point, resetGame: () => Unit) extends Game{
       }
     }
 
-    for (h <- hit) {
-      h match{
-        case Success => resetGame(/*"You have landed successfully."*/)
-        case Failure(reason) => resetGame(/*"You have crashed your lander: " + reason*/)
-      }
+    hit.headOption.map{
+      case Success =>
+        result = Some("You have landed successfully.")
+        resetGame()
+      case Failure(reason) =>
+        result = Some("You have crashed your lander: " + reason)
+        resetGame()
     }
   }
 }

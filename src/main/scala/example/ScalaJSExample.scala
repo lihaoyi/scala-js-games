@@ -48,6 +48,7 @@ class GameHolder(canvasName: String, gameMaker: (Point, () => Unit) => Game){
   canvas.onkeydown = {(e: KeyboardEvent) =>
     keys.add(e.keyCode.toInt)
     e.preventDefault()
+    message = None
   }
   canvas.onkeyup = {(e: KeyboardEvent) =>
     keys.remove(e.keyCode.toInt)
@@ -55,7 +56,6 @@ class GameHolder(canvasName: String, gameMaker: (Point, () => Unit) => Game){
   }
 
   canvas.onfocus = {(e: FocusEvent) =>
-    println("Im Focused Yo")
     active = true
   }
   canvas.onblur = {(e: FocusEvent) =>
@@ -70,20 +70,32 @@ class GameHolder(canvasName: String, gameMaker: (Point, () => Unit) => Game){
       game.draw(ctx)
       firstFrame = true
     }
-    if (active) {
-      game.update(keys.toSet)
+    if (active && message.isEmpty) {
       game.draw(ctx)
+      game.update(keys.toSet)
+    }else if (message.isDefined){
+      ctx.fillStyle = Color.Black
+      ctx.fillRect(0, 0, bounds.x, bounds.y)
+      ctx.fillStyle = Color.White
+      ctx.font = "20pt Arial"
+      ctx.textAlign = "center"
+      ctx.fillText(message.get, bounds.x/2, bounds.y/2)
+      ctx.font = "14pt Arial"
+      ctx.fillText("Press any key to continue", bounds.x/2, bounds.y/2 + 30)
     }
-
-
   }
+
+  var message: Option[String] = None
   def resetGame(): Unit = {
+    message = game.result
+    println("MESSAGE " + message)
     game = gameMaker(bounds, () => resetGame())
   }
   ctx.font = "12pt Arial"
   ctx.textAlign = "center"
 }
 abstract class Game{
+  var result: Option[String] = None
   def update(keys: Set[Int]): Unit
 
   def draw(ctx: CanvasRenderingContext2D): Unit

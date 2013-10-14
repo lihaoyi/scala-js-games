@@ -1,5 +1,7 @@
 canvas{
-    margin: 10px;
+    display: block;
+    float: left;
+    margin: 10px 0px 10px 0px;
 }
 
 canvas:focus{

@@ -58,6 +58,8 @@ case class BrickBreaker(bounds: Point, resetGame: () => Unit) extends Game {
 
     ctx.fillCircle(ballPos.x - 5, ballPos.y - 5, 5)
 
+    ctx.textAlign = "left"
+    ctx.fillText("Balls Left: " + ballsLeft, bounds.x - borderWidth / 2 - 40, 4 * bounds.y / 5 - 10)
     for (i <- 1 to ballsLeft){
       ctx.fillCircle(bounds.x - borderWidth / 2 - 40 + i * 15, 4 * bounds.y / 5 + 10, 5)
     }
@@ -98,8 +100,14 @@ case class BrickBreaker(bounds: Point, resetGame: () => Unit) extends Game {
       if (ballPos.x + 5 > bounds.x - borderWidth) ballVel = ballVel.copy(x = -math.abs(ballVel.x))
       else if (ballPos.x - 5 < borderWidth) ballVel = ballVel.copy(x = math.abs(ballVel.x))
       else if (ballPos.y - 5 < 0) ballVel = ballVel.copy(y = math.abs(ballVel.y))
-      else if (ballPos.y > bounds.y) reset()
-      else{
+      else if (ballPos.y > bounds.y) {
+        ballsLeft -= 1
+        if (ballsLeft >= 0) reset()
+        else {
+          result = Some("You've run out of balls!")
+          resetGame()
+        }
+      }else{
         if (ballPos.within(paddlePos - paddleDims/2, paddlePos + paddleDims/2, Point(5, 5))){
           ballVel = ballVel.copy(
             x = ballVel.x + paddleDir.x / 8,
@@ -139,6 +147,10 @@ case class BrickBreaker(bounds: Point, resetGame: () => Unit) extends Game {
             }
           }
 
+        }
+        if(bricks.size == 0){
+          result = Some("Success! You've destroyed all the bricks!")
+          resetGame()
         }
       }
     }

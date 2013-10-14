@@ -79,7 +79,9 @@ case class Snake(bounds: Point, resetGame: () => Unit) extends Game{
       position = position + direction
 
       grid(position.x.toInt)(position.y.toInt) match{
-        case Wall(d) => resetGame(/*"You hit a wall!"*/)
+        case Wall(d) =>
+          result = Some("You hit a wall!")
+          resetGame()
         case x =>
           x match{
             case Apple(_, s) => length += s

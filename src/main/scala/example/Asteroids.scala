@@ -4,6 +4,7 @@ import scala.js.{JsGlobals, CanvasRenderingContext2D, Math}
 import scala.util.Random
 
 case class Asteroids(bounds: Point, resetGame: () => Unit) extends Game{
+
   var bullets = Seq.empty[Bullet]
   val craft = new Craft(bounds / 2, Point(0, 0), 0)
   var frameCount = 0
@@ -55,7 +56,11 @@ case class Asteroids(bounds: Point, resetGame: () => Unit) extends Game{
         .filter(_.position.within(Point(0, 0), bounds))
 
     if(asteroids.exists(_.contains(craft.position))){
-      resetGame(/*"Your ship hit an asteroid!"*/)
+      result = Some("Your ship hit an asteroid!")
+      resetGame()
+    }else if (asteroids.length == 0){
+      result = Some("You successfully destroyed every asteroid!")
+      resetGame()
     }
   }
 
