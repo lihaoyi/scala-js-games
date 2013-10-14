@@ -1,0 +1,9 @@
+canvas{
+    display: block;
+    float: left;
+    margin: 10px 0px 10px 0px;
+}
+
+canvas:focus{
+    outline: 10px solid orange;
+}
