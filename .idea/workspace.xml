@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" name="Default" comment="Games work!">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.html" />
-      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\README.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/Asteroids.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/Asteroids.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/AstroLander.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/AstroLander.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/BrickBreaker.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/BrickBreaker.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/Snake.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/Snake.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-dev.html" afterPath="$PROJECT_DIR$/index-dev.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\README.html" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="scala-js-example-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -687,13 +677,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.html">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="4" selection-start="0" selection-end="1479" vertical-scroll-proportion="0.5953307">
+            <state line="0" column="4" selection-start="0" selection-end="4" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1816,12 +1806,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="4" selection-start="0" selection-end="1479" vertical-scroll-proportion="0.5953307">
+        <state line="0" column="4" selection-start="0" selection-end="4" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
