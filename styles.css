@@ -1,0 +1,7 @@
+canvas{
+    margin: 10px;
+}
+
+canvas:focus{
+    outline: 10px solid orange;
+}

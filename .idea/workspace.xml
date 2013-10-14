@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" name="Default" comment="" />
+    <list default="true" id="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" name="Default" comment="Gamesssss">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/Asteroids.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/AstroLander.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/BrickBreaker.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/Build.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/Pong.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/Snake.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles.css" />
+      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\build.sbt" afterPath="" />
+      <change type="MOVED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\src\main\scala\scala\js\Css.scala" afterPath="$PROJECT_DIR$/lib/src/main/scala/scala/js/Css.scala" />
+      <change type="MOVED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\src\main\scala\scala\js\Html.scala" afterPath="$PROJECT_DIR$/lib/src/main/scala/scala/js/Html.scala" />
+      <change type="MOVED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\src\main\scala\scala\js\Idb.scala" afterPath="$PROJECT_DIR$/lib/src/main/scala/scala/js/Idb.scala" />
+      <change type="MOVED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\src\main\scala\scala\js\Ms.scala" afterPath="$PROJECT_DIR$/lib/src/main/scala/scala/js/Ms.scala" />
+      <change type="MOVED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\src\main\scala\scala\js\Svg.scala" afterPath="$PROJECT_DIR$/lib/src/main/scala/scala/js/Svg.scala" />
+      <change type="MOVED" beforePath="C:\Dropbox\Workspace\scala-js-example-app\src\main\scala\scala\js\lib.scala" afterPath="$PROJECT_DIR$/lib/src/main/scala/scala/js/lib.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-dev.html" afterPath="$PROJECT_DIR$/index-dev.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="scala-js-example-app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381604610729" ignored="false" />
-    <file path="/ScalaJSExample.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381663128244" ignored="false" />
+    <file path="/Dummy.txt" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381776903981" ignored="false" />
+    <file path="/ScalaJSExample.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381776343234" ignored="false" />
     <file path="$PROJECT_DIR$/../scala-js-ts-importer/src/test/resources/lib.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1380696682755" ignored="false" />
     <file path="/lib.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381647941501" ignored="false" />
-    <file path="/Build.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1380773435272" ignored="false" />
+    <file path="/Build.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381680057809" ignored="false" />
     <file path="/Build.Scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381642883122" ignored="false" />
-    <file path="/index-dev.html" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381647390021" ignored="false" />
-    <file path="/Html.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381655050387" ignored="false" />
+    <file path="/index-dev.html" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381776589397" ignored="false" />
+    <file path="/Html.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381774747699" ignored="false" />
     <file path="/index.html" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381663275277" ignored="false" />
+    <file path="/build.sbt" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381678033723" ignored="false" />
+    <file path="/Asteroids.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381775751740" ignored="false" />
+    <file path="/fragment.java" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381682500666" ignored="false" />
+    <file path="/AstroLander.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381775781492" ignored="false" />
+    <file path="/Snake.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381775796473" ignored="false" />
+    <file path="/Pong.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381775790802" ignored="false" />
+    <file path="/GameLibrary.java" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381769796641" ignored="false" />
+    <file path="/Brick.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381775786202" ignored="false" />
+    <file path="/Bricks.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381772449326" ignored="false" />
+    <file path="/styles.css" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381776850162" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +57,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -63,137 +94,556 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="GameLibrary.java" pinned="false" current="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/../../Archive/Coding/Java Test Folder/GameLibrary/GameLibrary.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="2047" column="30" selection-start="80325" selection-end="80325" vertical-scroll-proportion="0.67745954">
+                    <folding>
+                      <element signature="class#GameLibrary#0" expanded="false" />
+                      <element signature="method#getParameters#0;class#GameLibrary#0" expanded="false" />
+                      <element signature="method#main#0;class#GameLibrary#0" expanded="false" />
+                      <element signature="class#Asteroids#0" expanded="false" />
+                      <element signature="class#Projectile#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#clone#0;class#Projectile#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#Projectile#0;class#Projectile#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#fillOldImage#0;class#Projectile#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#move#0;class#Projectile#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#createAsteroids#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#Asteroids#0;class#Asteroids#0" expanded="false" />
+                      <element signature="e#8579#8595#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#splitAsteroid#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#paint#0;class#Asteroids#0" expanded="false" />
+                      <element signature="class#Background#0;class#Asteroids#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Asteroids#0" expanded="false" />
+                      <element signature="class#Astrolander#0" expanded="false" />
+                      <element signature="class#Projectile#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#Projectile#0;class#Projectile#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#move#0;class#Projectile#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#drawFlame#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#makeGround#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#Astrolander#0;class#Astrolander#0" expanded="false" />
+                      <element signature="e#25481#25497#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#goodAngle#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#speed#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#mousePressed#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#mouseReleased#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#mouseClicked#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#mouseEntered#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#mouseExited#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#paint#0;class#Astrolander#0" expanded="false" />
+                      <element signature="class#Background#0;class#Astrolander#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Astrolander#0" expanded="false" />
+                      <element signature="e#31877#31909#0" expanded="false" />
+                      <element signature="e#32048#32075#0" expanded="false" />
+                      <element signature="class#Turmites#0" expanded="false" />
+                      <element signature="class#TurmiteVector#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#turmiteAt#0;class#TurmiteVector#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#TurmiteVector#0;class#TurmiteVector#0;class#Turmites#0" expanded="false" />
+                      <element signature="class#Reaction#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#Reaction#0;class#Reaction#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#R#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#randomize#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#clear#0;class#Turmites#0" expanded="false" />
+                      <element signature="class#Turmite#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#Turmite#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#move#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#moveY#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#moveX#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#rotate#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#turn#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#init#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#switchTermite#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#Turmites#0;class#Turmites#0" expanded="false" />
+                      <element signature="e#52208#52224#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#mousePressed#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#mouseReleased#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#mouseClicked#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#mouseEntered#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#mouseExited#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#paint#0;class#Turmites#0" expanded="false" />
+                      <element signature="class#Background#0;class#Turmites#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Turmites#0" expanded="false" />
+                      <element signature="class#Snake#0" expanded="false" />
+                      <element signature="class#Position#0;class#Snake#0" expanded="false" />
+                      <element signature="method#Position#0;class#Position#0;class#Snake#0" expanded="false" />
+                      <element signature="method#update#0;class#Position#0;class#Snake#0" expanded="false" />
+                      <element signature="method#makeMap#0;class#Snake#0" expanded="false" />
+                      <element signature="method#Snake#0;class#Snake#0" expanded="false" />
+                      <element signature="e#57345#57361#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Snake#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Snake#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Snake#0" expanded="false" />
+                      <element signature="method#appleCount#0;class#Snake#0" expanded="false" />
+                      <element signature="method#updateMap#0;class#Snake#0" expanded="false" />
+                      <element signature="method#move#0;class#Snake#0" expanded="false" />
+                      <element signature="method#addLength#0;class#Snake#0" expanded="false" />
+                      <element signature="method#addApples#0;class#Snake#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Snake#0" expanded="false" />
+                      <element signature="method#paint#0;class#Snake#0" expanded="false" />
+                      <element signature="class#Background#0;class#Snake#0" expanded="false" />
+                      <element signature="method#paintPixel#0;class#Background#0;class#Snake#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Snake#0" expanded="false" />
+                      <element signature="class#Pong#0" expanded="false" />
+                      <element signature="method#bounce#0;class#Pong#0" expanded="false" />
+                      <element signature="method#cheer#0;class#Pong#0" expanded="false" />
+                      <element signature="class#Padel#0;class#Pong#0" expanded="false" />
+                      <element signature="method#Padel#0;class#Padel#0;class#Pong#0" expanded="false" />
+                      <element signature="method#move#0;class#Padel#0;class#Pong#0" expanded="false" />
+                      <element signature="method#checkYAI#0;class#Pong#0" expanded="false" />
+                      <element signature="method#moveAI#0;class#Pong#0" expanded="false" />
+                      <element signature="method#moveBall#0;class#Pong#0" expanded="false" />
+                      <element signature="method#addScore#0;class#Pong#0" expanded="false" />
+                      <element signature="method#initSounds#0;class#Pong#0" expanded="false" />
+                      <element signature="method#Pong#0;class#Pong#0" expanded="false" />
+                      <element signature="e#70485#70501#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Pong#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Pong#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Pong#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Pong#0" expanded="false" />
+                      <element signature="method#paint#0;class#Pong#0" expanded="false" />
+                      <element signature="class#Background#0;class#Pong#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Pong#0" expanded="false" />
+                      <element signature="e#72440#72472#0" expanded="false" />
+                      <element signature="method#brickSound#0;class#Bricks#0" expanded="false" />
+                      <element signature="method#bounceSound#0;class#Bricks#0" expanded="false" />
+                      <element signature="class#BrickVector#0;class#Bricks#0" expanded="false" />
+                      <element signature="method#element#0;class#BrickVector#0;class#Bricks#0" expanded="false" />
+                      <element signature="method#checkIntersect#0;class#Brick#0;class#Bricks#0" expanded="false" />
+                      <element signature="method#initSounds#0;class#Bricks#0" expanded="false" />
+                      <element signature="e#83451#83467#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Bricks#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Bricks#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Bricks#0" expanded="false" />
+                      <element signature="method#paint#0;class#Bricks#0" expanded="false" />
+                      <element signature="e#86360#86392#0" expanded="false" />
+                      <element signature="class#Tetris#0" expanded="false" />
+                      <element signature="class#87237:87686" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#87237:87686" expanded="false" />
+                      <element signature="method#moveSound#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#printSquare#0;class#Tetris#0" expanded="false" />
+                      <element signature="class#Position#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#Position#0;class#Position#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#setPosition#0;class#Position#0;class#Tetris#0" expanded="false" />
+                      <element signature="class#Block#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#imprint#0;class#Block#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#rotate#0;class#Block#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#checkOverlap#0;class#Block#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#Block#0;class#Block#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#print#0;class#Block#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#move#0;class#Block#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#checkCollision#0;class#Block#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#initMap#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#checkLine#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#clearLine#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#checkLines#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#moveLine#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#printLine#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#moveDown#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#drawBorders#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#initSounds#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#Tetris#0;class#Tetris#0" expanded="false" />
+                      <element signature="e#100065#100081#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#paint#0;class#Tetris#0" expanded="false" />
+                      <element signature="class#Background#0;class#Tetris#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Tetris#0" expanded="false" />
+                      <element signature="class#Tanks#0" expanded="false" />
+                      <element signature="method#shellFire#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#shellImpact#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#tankExplode#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#collideSound#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#collectSound#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#Display#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Display#0;class#Display#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#update#0;class#Display#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#getPointer#0;class#Display#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#drawCross#0;class#Display#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#printShot#0;class#Display#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#print#0;class#Display#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#remove#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#getSpeed#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Projectile#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Projectile#1;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#initImage#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#move#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#makeImage#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#print#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#checkIntersect#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#Shot#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Shot#0;class#Shot#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#addSpread#0;class#Shot#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#Salvage#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Salvage#0;class#Salvage#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#makeImage#0;class#Salvage#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#print#0;class#Salvage#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#remove#0;class#Salvage#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#Obstacle#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Obstacle#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+                      <element signature="e#125985#126086#0" expanded="false" />
+                      <element signature="method#setupImage#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#explode#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#print#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#printTop#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Order#0;class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#setToAttack#0;class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#setToFollow#0;class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#setToHold#0;class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#explode#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Tank#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#copy#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Tank#1;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#fire#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#shot#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#updateTarget#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#getPriority#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#doAI#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#selectShot#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#checkCrossFire#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#checkIntersect#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#checkIntersect#1;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#checkIntersect#2;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#checkIntersect#3;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#controls#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#slow#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#remove#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#move#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#getLineAngle#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#collide#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#collide#1;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#makeImage#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="e#164151#164167#0" expanded="false" />
+                      <element signature="e#164316#164364#0" expanded="false" />
+                      <element signature="method#makeTurret#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#printBase#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#printBaseColors#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#printTurret#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#printStripes#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#printFlag#0;class#Tank#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#TempText#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#TempText#0;class#TempText#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#print#0;class#TempText#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#ProjectileVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#element#0;class#ProjectileVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#TankVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#element#0;class#TankVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#LineVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#element#0;class#LineVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#SalvageVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#element#0;class#SalvageVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#TempTextVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#element#0;class#TempTextVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#ObstacleVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#element#0;class#ObstacleVector#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#LevelData#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#setColors#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#LevelData#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#resetTanks#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#setEnemyAI#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#setFriendlyAI#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#getEnemy#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#getFriendly#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#followMouse#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#switchTarget#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#paintPattern#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#paintBackground#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#init#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#endLevel#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#startLevel#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#resetPlayer#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#initLevel#0;class#Tanks#0" expanded="false" />
+                      <element signature="e#183473#183511#0" expanded="false" />
+                      <element signature="method#initSounds#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#Tanks#0;class#Tanks#0" expanded="false" />
+                      <element signature="e#186496#186512#0" expanded="false" />
+                      <element signature="method#changeShot#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Tanks#0" expanded="false" />
+                      <element signature="e#189173#189226#0" expanded="false" />
+                      <element signature="method#mousePressed#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#mouseClicked#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#mouseEntered#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#mouseExited#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#mouseMoved#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#retryLevel#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Tanks#0" expanded="false" />
+                      <element signature="e#196001#196018#0" expanded="false" />
+                      <element signature="class#Background#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#printLine#0;class#Background#0;class#Tanks#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Tanks#0" expanded="false" />
+                      <element signature="class#Circuit#0" expanded="false" />
+                      <element signature="class#Point#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#Point#0;class#Point#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#addLink#0;class#Point#0;class#Circuit#0" expanded="false" />
+                      <element signature="class#Gate#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#Gate#0;class#Gate#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#linkTo#0;class#Gate#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#move#0;class#Gate#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#remove#0;class#Gate#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#setStart#0;class#Gate#0;class#Circuit#0" expanded="false" />
+                      <element signature="class#Wire#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#setStart#0;class#Wire#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#Wire#0;class#Wire#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#linkTo#0;class#Wire#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#remove#0;class#Wire#0;class#Circuit#0" expanded="false" />
+                      <element signature="class#CircuitComponent#0;class#Circuit#0" expanded="false" />
+                      <element signature="class#Front#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#Front#0;class#Front#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#move#0;class#Front#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#end#0;class#Front#0;class#Circuit#0" expanded="false" />
+                      <element signature="class#GeneralVector#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#wire#0;class#GeneralVector#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#front#0;class#GeneralVector#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#point#0;class#GeneralVector#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#gate#0;class#GeneralVector#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#getShape#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#makeLine#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#init#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#Circuit#0;class#Circuit#0" expanded="false" />
+                      <element signature="e#215190#215206#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#setCursor#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#mouseMoved#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#mouseDragged#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#mousePressed#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#mouseReleased#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#mouseClicked#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#mouseEntered#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#mouseExited#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#paint#0;class#Circuit#0" expanded="false" />
+                      <element signature="class#Background#0;class#Circuit#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Circuit#0" expanded="false" />
+                      <element signature="class#Test#0" expanded="false" />
+                      <element signature="method#shellFire#0;class#Test#0" expanded="false" />
+                      <element signature="method#softShellFire#0;class#Test#0" expanded="false" />
+                      <element signature="method#shellImpact#0;class#Test#0" expanded="false" />
+                      <element signature="method#softShellImpact#0;class#Test#0" expanded="false" />
+                      <element signature="method#tankExplode#0;class#Test#0" expanded="false" />
+                      <element signature="method#collideSound#0;class#Test#0" expanded="false" />
+                      <element signature="method#rocketRelease#0;class#Test#0" expanded="false" />
+                      <element signature="method#collectSound#0;class#Test#0" expanded="false" />
+                      <element signature="method#homingSound#0;class#Test#0" expanded="false" />
+                      <element signature="method#playHoming#0;class#Test#0" expanded="false" />
+                      <element signature="method#firingSound#0;class#Test#0" expanded="false" />
+                      <element signature="class#GeneralVector#0;class#Test#0" expanded="false" />
+                      <element signature="method#shot3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+                      <element signature="method#tank3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+                      <element signature="method#obstacle3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+                      <element signature="method#fragment3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+                      <element signature="method#aircraft3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+                      <element signature="method#gun#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+                      <element signature="method#powerup3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+                      <element signature="class#Object3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#collide#0;class#Object3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#Obstacle3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#Obstacle3D#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#collide#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkIntersect#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkBaseIntersect#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#print#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#Fragment3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#Fragment3D#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#initMomentum#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#moveVector#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#move#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#print#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#PowerUp3D#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#PowerUp3D#1;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkCollision#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkCollision#1;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#move#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#addFriction#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#addWeaponBonus#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#addArmorBonus#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#powerUp#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#print#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#Shot3D#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#Shot3D#1;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkIntersect#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#remove#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkCollision#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#move#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#home#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="e#240401#240480#0" expanded="false" />
+                      <element signature="method#initMomentum#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#moveVector#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#print#0;class#Shot3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#Aircraft3D#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#getFiringHole#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#initGuns#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#initForm#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#makeFragments#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkCollision#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkRotorHit#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkIntersect#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkBaseIntersect#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkIntersect#1;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#controls#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#spinRotor#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#move#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#moveDirection#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#print#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#MammothTank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#MammothTank3D#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#getFiringHole#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#initGuns#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#initForm#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#getFiringHoles#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#makeFragments#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#Objective#0;class#Test#0" expanded="false" />
+                      <element signature="method#Objective#0;class#Objective#0;class#Test#0" expanded="false" />
+                      <element signature="method#askToAttack#0;class#Objective#0;class#Test#0" expanded="false" />
+                      <element signature="method#setToAttack#0;class#Objective#0;class#Test#0" expanded="false" />
+                      <element signature="method#setToFollow#0;class#Objective#0;class#Test#0" expanded="false" />
+                      <element signature="method#clear#0;class#Objective#0;class#Test#0" expanded="false" />
+                      <element signature="method#setToHold#0;class#Objective#0;class#Test#0" expanded="false" />
+                      <element signature="method#askToHold#0;class#Objective#0;class#Test#0" expanded="false" />
+                      <element signature="class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#Commands#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#Tank3D#1;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#addLoot#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#initGuns#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#initForm#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#initMaxDistance#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkCollision#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkIntersect#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkBaseIntersect#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkIntersect#1;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#collide#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#hit#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#dropLoot#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#makeFragments#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#explode#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#resetRandomOffset#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#setFiringDelay#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#findTarget#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#chooseGun#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#getFiringHole#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#doAI#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#decrementCounters#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#addTanksMomentum#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#move#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#getFiringHoles#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#moveDirection#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#controls#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="method#print#0;class#Tank3D#0;class#Test#0" expanded="false" />
+                      <element signature="class#Gun#0;class#Test#0" expanded="false" />
+                      <element signature="method#Gun#0;class#Gun#0;class#Test#0" expanded="false" />
+                      <element signature="method#Gun#1;class#Gun#0;class#Test#0" expanded="false" />
+                      <element signature="method#Gun#2;class#Gun#0;class#Test#0" expanded="false" />
+                      <element signature="method#fire#0;class#Gun#0;class#Test#0" expanded="false" />
+                      <element signature="class#Display#0;class#Test#0" expanded="false" />
+                      <element signature="method#Display#0;class#Display#0;class#Test#0" expanded="false" />
+                      <element signature="method#update#0;class#Display#0;class#Test#0" expanded="false" />
+                      <element signature="method#printCircle#0;class#Display#0;class#Test#0" expanded="false" />
+                      <element signature="method#getColor#0;class#Display#0;class#Test#0" expanded="false" />
+                      <element signature="method#print#0;class#Display#0;class#Test#0" expanded="false" />
+                      <element signature="e#298080#298100#0" expanded="false" />
+                      <element signature="class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#ShotType#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setLaunchOffset#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setSpeed#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setDamage#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setFragments#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setRange#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setAngles#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setReload#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setHoming#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="method#setSound#0;class#ShotType#0;class#Test#0" expanded="false" />
+                      <element signature="class#Shake#0;class#Test#0" expanded="false" />
+                      <element signature="method#Shake#0;class#Shake#0;class#Test#0" expanded="false" />
+                      <element signature="method#getGreekAlphabet#0;class#Test#0" expanded="false" />
+                      <element signature="method#printShape#0;class#Test#0" expanded="false" />
+                      <element signature="method#shakeCamera#0;class#Test#0" expanded="false" />
+                      <element signature="method#switchTarget#0;class#Test#0" expanded="false" />
+                      <element signature="method#getRandomPos#0;class#Test#0" expanded="false" />
+                      <element signature="method#spawnWave#0;class#Test#0" expanded="false" />
+                      <element signature="method#initShots#0;class#Test#0" expanded="false" />
+                      <element signature="method#getRandomPositionInCircle#0;class#Test#0" expanded="false" />
+                      <element signature="method#init#0;class#Test#0" expanded="false" />
+                      <element signature="method#initSounds#0;class#Test#0" expanded="false" />
+                      <element signature="method#Test#0;class#Test#0" expanded="false" />
+                      <element signature="e#318942#318958#0" expanded="false" />
+                      <element signature="method#mouseTarget#0;class#Test#0" expanded="false" />
+                      <element signature="e#322909#322920#0" expanded="false" />
+                      <element signature="method#shake#0;class#Test#0" expanded="false" />
+                      <element signature="method#cameraControls#0;class#Test#0" expanded="false" />
+                      <element signature="method#shiftGrid#0;class#Test#0" expanded="false" />
+                      <element signature="method#move#0;class#Test#0" expanded="false" />
+                      <element signature="e#326578#326654#0" expanded="false" />
+                      <element signature="method#keyPressed#0;class#Test#0" expanded="false" />
+                      <element signature="method#keyReleased#0;class#Test#0" expanded="false" />
+                      <element signature="method#keyTyped#0;class#Test#0" expanded="false" />
+                      <element signature="method#checkCollision#0;class#Test#0" expanded="false" />
+                      <element signature="method#actionPerformed#0;class#Test#0" expanded="false" />
+                      <element signature="method#switchGun#0;class#Test#0" expanded="false" />
+                      <element signature="method#mousePressed#0;class#Test#0" expanded="false" />
+                      <element signature="method#mouseReleased#0;class#Test#0" expanded="false" />
+                      <element signature="method#mouseClicked#0;class#Test#0" expanded="false" />
+                      <element signature="method#mouseEntered#0;class#Test#0" expanded="false" />
+                      <element signature="method#mouseExited#0;class#Test#0" expanded="false" />
+                      <element signature="method#mouseMoved#0;class#Test#0" expanded="false" />
+                      <element signature="method#mouseDragged#0;class#Test#0" expanded="false" />
+                      <element signature="method#printRadar#0;class#Test#0" expanded="false" />
+                      <element signature="method#makeDisplay#0;class#Test#0" expanded="false" />
+                      <element signature="class#Background#0;class#Test#0" expanded="false" />
+                      <element signature="method#printLine#0;class#Background#0;class#Test#0" expanded="false" />
+                      <element signature="method#paintComponent#0;class#Background#0;class#Test#0" expanded="false" />
+                      <element signature="e#340819#340863#0" expanded="false" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="scala-js-example-app" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Html.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Html.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="563" column="1" selection-start="19157" selection-end="19157" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#3673#3703#0" expanded="false" />
-                <element signature="e#3965#5034#0" expanded="false" />
-                <element signature="e#12510#13261#0" expanded="false" />
-                <element signature="e#14168#15321#0" expanded="false" />
-                <element signature="e#27557#27639#0" expanded="false" />
-                <element signature="e#28014#28123#0" expanded="false" />
-                <element signature="e#28236#28344#0" expanded="false" />
-                <element signature="e#28389#30190#0" expanded="false" />
-                <element signature="e#42356#43542#0" expanded="false" />
-                <element signature="e#44314#44451#0" expanded="false" />
-                <element signature="e#44682#45400#0" expanded="false" />
-                <element signature="e#45633#45636#0" expanded="false" />
-                <element signature="e#45679#45789#0" expanded="false" />
-                <element signature="e#45833#45865#0" expanded="false" />
-                <element signature="e#45908#46018#0" expanded="false" />
-                <element signature="e#46141#46254#0" expanded="false" />
-                <element signature="e#46330#47117#0" expanded="false" />
-                <element signature="e#47160#47270#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Css.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Css.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="314" column="57" selection-start="11427" selection-end="11427" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ms.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Ms.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="6" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#55#1537#0" expanded="false" />
-                <element signature="e#1576#1579#0" expanded="false" />
-                <element signature="e#2293#3544#0" expanded="false" />
-                <element signature="e#4636#4895#0" expanded="false" />
-                <element signature="e#4930#5030#0" expanded="false" />
-                <element signature="e#5066#5169#0" expanded="false" />
-                <element signature="e#5209#5388#0" expanded="false" />
-                <element signature="e#5429#5537#0" expanded="false" />
-                <element signature="e#5665#5700#0" expanded="false" />
-                <element signature="e#7245#8543#0" expanded="false" />
-                <element signature="e#8585#8904#0" expanded="false" />
-                <element signature="e#9184#9370#0" expanded="false" />
-                <element signature="e#9423#10018#0" expanded="false" />
-                <element signature="e#10408#10617#0" expanded="false" />
-                <element signature="e#10656#10762#0" expanded="false" />
-                <element signature="e#10829#10995#0" expanded="false" />
-                <element signature="e#11919#13490#0" expanded="false" />
-                <element signature="e#13682#13983#0" expanded="false" />
-                <element signature="e#14024#14132#0" expanded="false" />
-                <element signature="e#14182#14277#0" expanded="false" />
-                <element signature="e#14323#14428#0" expanded="false" />
-                <element signature="e#14475#14589#0" expanded="false" />
-                <element signature="e#15014#15206#0" expanded="false" />
-                <element signature="e#15261#15383#0" expanded="false" />
-                <element signature="e#15655#15834#0" expanded="false" />
-                <element signature="e#15876#15939#0" expanded="false" />
-                <element signature="e#15983#16094#0" expanded="false" />
-                <element signature="e#16146#16284#0" expanded="false" />
-                <element signature="e#16336#16806#0" expanded="false" />
-                <element signature="e#16859#16979#0" expanded="false" />
-                <element signature="e#17218#17392#0" expanded="false" />
-                <element signature="e#17886#20097#0" expanded="false" />
-                <element signature="e#20148#20225#0" expanded="false" />
-                <element signature="e#20277#20396#0" expanded="false" />
-                <element signature="e#20444#20886#0" expanded="false" />
-                <element signature="e#21182#21266#0" expanded="false" />
-                <element signature="e#21320#21441#0" expanded="false" />
-                <element signature="e#21482#22188#0" expanded="false" />
-                <element signature="e#22221#23956#0" expanded="false" />
-                <element signature="e#23994#24099#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ScalaJSExample.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="4" selection-start="2807" selection-end="2901" vertical-scroll-proportion="0.0">
+            <state line="78" column="0" selection-start="2341" selection-end="2341" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#16#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="startup.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/startup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameLibrary.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Archive/Coding/Java Test Folder/GameLibrary/GameLibrary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="366" column="42" selection-start="13877" selection-end="13877" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -202,16 +652,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="58" selection-start="224" selection-end="224" vertical-scroll-proportion="-5.8846154">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-dev.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-dev.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="170" selection-end="224" vertical-scroll-proportion="-5.8846154">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -220,10 +661,79 @@
       <file leaf-file-name="Primitives.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Primitives.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="2" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
+            <state line="256" column="13" selection-start="8335" selection-end="8335" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Snake.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/example/Snake.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="36" selection-start="1992" selection-end="2013" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#17#57#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-dev.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-dev.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="12" selection-start="803" selection-end="803" vertical-scroll-proportion="-12.423077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="1" selection-start="76" selection-end="76" vertical-scroll-proportion="0.12862547">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pong.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/example/Pong.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="19" selection-start="588" selection-end="588" vertical-scroll-proportion="-13.28">
+              <folding>
+                <element signature="e#17#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrickBreaker.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/example/BrickBreaker.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="53" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#17#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Asteroids.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/example/Asteroids.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="38" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#17#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AstroLander.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/example/AstroLander.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="0" selection-start="1273" selection-end="1273" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -246,32 +756,46 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/importedjs/lib.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/project/Build.scala" />
-        <option value="$PROJECT_DIR$/project/build.sbt" />
-        <option value="$PROJECT_DIR$/project/Build.Scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/js/lib.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala/js/package.scala" />
-        <option value="$PROJECT_DIR$/index-dev.html" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Css.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Idb.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Ms.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala/js/Svg.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala/js/lib.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scala/js/Html.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/build.sbt" />
+        <option value="$PROJECT_DIR$/project/Build.scala" />
+        <option value="$PROJECT_DIR$/lib/src/main/scala/scala/js/lib.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/Brick.scala" />
+        <option value="$PROJECT_DIR$/../../Archive/Coding/Java Test Folder/GameLibrary/GameLibrary.java" />
+        <option value="$PROJECT_DIR$/lib/src/main/scala/scala/js/Html.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/Bricks.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/AstroLander.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/Asteroids.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/Snake.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/Pong.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" />
+        <option value="$PROJECT_DIR$/index-dev.html" />
+        <option value="$PROJECT_DIR$/styles.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="916" />
+    <option name="width" value="800" />
+    <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Class structure</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -407,7 +931,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="example" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,6 +942,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scala-js-example-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-js-example-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-js-example-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -433,12 +975,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-js-example-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-js-example-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaJSExample.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -458,25 +1010,40 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Tests" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="Errors" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\Workspace\scala-js-example-app" />
+      <recent name="C:\Dropbox\Workspace\scala-js-example-app\src\main\scala\example" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\Workspace\scala-js-example-app\lib" />
+      <recent name="C:\Dropbox\Workspace\scala-js-example-app\lib\src\main\scala" />
       <recent name="C:\Dropbox\Workspace\scala-js-example-app\src\main\scala\importedjs" />
     </key>
   </component>
@@ -539,12 +1106,11 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="800" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33577535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -554,11 +1120,13 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.481875" sideWeight="0.6642247" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3392857" sideWeight="0.66467065" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33532935" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -627,247 +1195,617 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/project/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/package.scala">
+    <entry file="file://$PROJECT_DIR$/project/Build.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="2502" selection-end="2502" vertical-scroll-proportion="0.0">
+        <state line="5" column="7" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Function.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="6" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Svg.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1569" column="0" selection-start="61216" selection-end="61216" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#57#99#0" expanded="false" />
-            <element signature="e#156#253#0" expanded="false" />
-            <element signature="e#567#1222#0" expanded="false" />
-            <element signature="e#5455#5516#0" expanded="false" />
-            <element signature="e#5561#5673#0" expanded="false" />
-            <element signature="e#5708#5896#0" expanded="false" />
-            <element signature="e#7757#7760#0" expanded="false" />
-            <element signature="e#7803#7913#0" expanded="false" />
-            <element signature="e#7964#8039#0" expanded="false" />
-            <element signature="e#8091#8210#0" expanded="false" />
-            <element signature="e#8252#8352#0" expanded="false" />
-            <element signature="e#9000#9069#0" expanded="false" />
-            <element signature="e#9118#9234#0" expanded="false" />
-            <element signature="e#9291#9378#0" expanded="false" />
-            <element signature="e#9436#9561#0" expanded="false" />
-            <element signature="e#9616#9675#0" expanded="false" />
-            <element signature="e#11946#12137#0" expanded="false" />
-            <element signature="e#12181#12292#0" expanded="false" />
-            <element signature="e#12335#12903#0" expanded="false" />
-            <element signature="e#12947#13058#0" expanded="false" />
-            <element signature="e#13313#13374#0" expanded="false" />
-            <element signature="e#13419#13531#0" expanded="false" />
-            <element signature="e#13575#13648#0" expanded="false" />
-            <element signature="e#13795#13798#0" expanded="false" />
-            <element signature="e#13840#13949#0" expanded="false" />
-            <element signature="e#14006#14032#0" expanded="false" />
-            <element signature="e#14089#14213#0" expanded="false" />
-            <element signature="e#14363#14494#0" expanded="false" />
-            <element signature="e#14539#14651#0" expanded="false" />
-            <element signature="e#14816#14855#0" expanded="false" />
-            <element signature="e#14894#15000#0" expanded="false" />
-            <element signature="e#15163#15212#0" expanded="false" />
-            <element signature="e#15251#15313#0" expanded="false" />
-            <element signature="e#16076#18375#0" expanded="false" />
-            <element signature="e#19080#19083#0" expanded="false" />
-            <element signature="e#19126#19236#0" expanded="false" />
-            <element signature="e#19291#19317#0" expanded="false" />
-            <element signature="e#19372#19494#0" expanded="false" />
-            <element signature="e#21221#21412#0" expanded="false" />
-            <element signature="e#22473#23218#0" expanded="false" />
-            <element signature="e#24028#24140#0" expanded="false" />
-            <element signature="e#24391#24511#0" expanded="false" />
-            <element signature="e#25467#25718#0" expanded="false" />
-            <element signature="e#26953#26990#0" expanded="false" />
-            <element signature="e#28072#29107#0" expanded="false" />
-            <element signature="e#29142#29172#0" expanded="false" />
-            <element signature="e#31934#32043#0" expanded="false" />
-            <element signature="e#34207#34352#0" expanded="false" />
-            <element signature="e#34405#34525#0" expanded="false" />
-            <element signature="e#35152#35858#0" expanded="false" />
-            <element signature="e#38276#38325#0" expanded="false" />
-            <element signature="e#38388#38518#0" expanded="false" />
-            <element signature="e#38577#38674#0" expanded="false" />
-            <element signature="e#38733#38859#0" expanded="false" />
-            <element signature="e#38899#39323#0" expanded="false" />
-            <element signature="e#39364#39472#0" expanded="false" />
-            <element signature="e#39646#39649#0" expanded="false" />
-            <element signature="e#39695#39808#0" expanded="false" />
-            <element signature="e#39854#39895#0" expanded="false" />
-            <element signature="e#42792#42841#0" expanded="false" />
-            <element signature="e#43418#43421#0" expanded="false" />
-            <element signature="e#43465#43576#0" expanded="false" />
-            <element signature="e#43625#44407#0" expanded="false" />
-            <element signature="e#44457#45293#0" expanded="false" />
-            <element signature="e#48450#48832#0" expanded="false" />
-            <element signature="e#48877#49263#0" expanded="false" />
-            <element signature="e#49350#49353#0" expanded="false" />
-            <element signature="e#49398#49510#0" expanded="false" />
-            <element signature="e#49560#49656#0" expanded="false" />
-            <element signature="e#49706#49823#0" expanded="false" />
-            <element signature="e#49917#50125#0" expanded="false" />
-            <element signature="e#50177#50296#0" expanded="false" />
-            <element signature="e#50361#50533#0" expanded="false" />
-            <element signature="e#56471#56860#0" expanded="false" />
-            <element signature="e#56909#57215#0" expanded="false" />
-            <element signature="e#57264#57380#0" expanded="false" />
-            <element signature="e#59425#59461#0" expanded="false" />
-            <element signature="e#59518#59642#0" expanded="false" />
-            <element signature="e#59739#59956#0" expanded="false" />
-            <element signature="e#60186#60471#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Idb.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="186" column="0" selection-start="7616" selection-end="7616" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#57#1005#0" expanded="false" />
-            <element signature="e#1200#1267#0" expanded="false" />
-            <element signature="e#1316#1432#0" expanded="false" />
-            <element signature="e#2951#2978#0" expanded="false" />
-            <element signature="e#3024#3137#0" expanded="false" />
-            <element signature="e#3178#3247#0" expanded="false" />
-            <element signature="e#6998#7472#0" expanded="false" />
-            <element signature="e#7510#7615#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/lib.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="874" column="0" selection-start="39047" selection-end="39047" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Ms.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="6" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#55#1537#0" expanded="false" />
-            <element signature="e#1576#1579#0" expanded="false" />
-            <element signature="e#2293#3544#0" expanded="false" />
-            <element signature="e#4636#4895#0" expanded="false" />
-            <element signature="e#4930#5030#0" expanded="false" />
-            <element signature="e#5066#5169#0" expanded="false" />
-            <element signature="e#5209#5388#0" expanded="false" />
-            <element signature="e#5429#5537#0" expanded="false" />
-            <element signature="e#5665#5700#0" expanded="false" />
-            <element signature="e#7245#8543#0" expanded="false" />
-            <element signature="e#8585#8904#0" expanded="false" />
-            <element signature="e#9184#9370#0" expanded="false" />
-            <element signature="e#9423#10018#0" expanded="false" />
-            <element signature="e#10408#10617#0" expanded="false" />
-            <element signature="e#10656#10762#0" expanded="false" />
-            <element signature="e#10829#10995#0" expanded="false" />
-            <element signature="e#11919#13490#0" expanded="false" />
-            <element signature="e#13682#13983#0" expanded="false" />
-            <element signature="e#14024#14132#0" expanded="false" />
-            <element signature="e#14182#14277#0" expanded="false" />
-            <element signature="e#14323#14428#0" expanded="false" />
-            <element signature="e#14475#14589#0" expanded="false" />
-            <element signature="e#15014#15206#0" expanded="false" />
-            <element signature="e#15261#15383#0" expanded="false" />
-            <element signature="e#15655#15834#0" expanded="false" />
-            <element signature="e#15876#15939#0" expanded="false" />
-            <element signature="e#15983#16094#0" expanded="false" />
-            <element signature="e#16146#16284#0" expanded="false" />
-            <element signature="e#16336#16806#0" expanded="false" />
-            <element signature="e#16859#16979#0" expanded="false" />
-            <element signature="e#17218#17392#0" expanded="false" />
-            <element signature="e#17886#20097#0" expanded="false" />
-            <element signature="e#20148#20225#0" expanded="false" />
-            <element signature="e#20277#20396#0" expanded="false" />
-            <element signature="e#20444#20886#0" expanded="false" />
-            <element signature="e#21182#21266#0" expanded="false" />
-            <element signature="e#21320#21441#0" expanded="false" />
-            <element signature="e#21482#22188#0" expanded="false" />
-            <element signature="e#22221#23956#0" expanded="false" />
-            <element signature="e#23994#24099#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Css.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="314" column="57" selection-start="11427" selection-end="11427" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala/js/Html.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="563" column="1" selection-start="19157" selection-end="19157" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#3673#3703#0" expanded="false" />
-            <element signature="e#3965#5034#0" expanded="false" />
-            <element signature="e#12510#13261#0" expanded="false" />
-            <element signature="e#14168#15321#0" expanded="false" />
-            <element signature="e#27557#27639#0" expanded="false" />
-            <element signature="e#28014#28123#0" expanded="false" />
-            <element signature="e#28236#28344#0" expanded="false" />
-            <element signature="e#28389#30190#0" expanded="false" />
-            <element signature="e#42356#43542#0" expanded="false" />
-            <element signature="e#44314#44451#0" expanded="false" />
-            <element signature="e#44682#45400#0" expanded="false" />
-            <element signature="e#45633#45636#0" expanded="false" />
-            <element signature="e#45679#45789#0" expanded="false" />
-            <element signature="e#45833#45865#0" expanded="false" />
-            <element signature="e#45908#46018#0" expanded="false" />
-            <element signature="e#46141#46254#0" expanded="false" />
-            <element signature="e#46330#47117#0" expanded="false" />
-            <element signature="e#47160#47270#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Primitives.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="2" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Archive/Coding/Java Test Folder/GameLibrary/GameLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="366" column="42" selection-start="13877" selection-end="13877" vertical-scroll-proportion="0.0">
+        <state line="2047" column="30" selection-start="80325" selection-end="80325" vertical-scroll-proportion="0.67745954">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="class#GameLibrary#0" expanded="false" />
+            <element signature="method#getParameters#0;class#GameLibrary#0" expanded="false" />
+            <element signature="method#main#0;class#GameLibrary#0" expanded="false" />
+            <element signature="class#Asteroids#0" expanded="false" />
+            <element signature="class#Projectile#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#clone#0;class#Projectile#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#Projectile#0;class#Projectile#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#fillOldImage#0;class#Projectile#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#move#0;class#Projectile#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#createAsteroids#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#Asteroids#0;class#Asteroids#0" expanded="false" />
+            <element signature="e#8579#8595#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#splitAsteroid#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#paint#0;class#Asteroids#0" expanded="false" />
+            <element signature="class#Background#0;class#Asteroids#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Asteroids#0" expanded="false" />
+            <element signature="class#Astrolander#0" expanded="false" />
+            <element signature="class#Projectile#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#Projectile#0;class#Projectile#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#move#0;class#Projectile#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#drawFlame#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#makeGround#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#Astrolander#0;class#Astrolander#0" expanded="false" />
+            <element signature="e#25481#25497#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#goodAngle#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#speed#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#mouseReleased#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#mouseEntered#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#mouseExited#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#paint#0;class#Astrolander#0" expanded="false" />
+            <element signature="class#Background#0;class#Astrolander#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Astrolander#0" expanded="false" />
+            <element signature="e#31877#31909#0" expanded="false" />
+            <element signature="e#32048#32075#0" expanded="false" />
+            <element signature="class#Turmites#0" expanded="false" />
+            <element signature="class#TurmiteVector#0;class#Turmites#0" expanded="false" />
+            <element signature="method#turmiteAt#0;class#TurmiteVector#0;class#Turmites#0" expanded="false" />
+            <element signature="method#TurmiteVector#0;class#TurmiteVector#0;class#Turmites#0" expanded="false" />
+            <element signature="class#Reaction#0;class#Turmites#0" expanded="false" />
+            <element signature="method#Reaction#0;class#Reaction#0;class#Turmites#0" expanded="false" />
+            <element signature="method#R#0;class#Turmites#0" expanded="false" />
+            <element signature="method#randomize#0;class#Turmites#0" expanded="false" />
+            <element signature="method#clear#0;class#Turmites#0" expanded="false" />
+            <element signature="class#Turmite#0;class#Turmites#0" expanded="false" />
+            <element signature="method#Turmite#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+            <element signature="method#move#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+            <element signature="method#moveY#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+            <element signature="method#moveX#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+            <element signature="method#rotate#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+            <element signature="method#turn#0;class#Turmite#0;class#Turmites#0" expanded="false" />
+            <element signature="method#init#0;class#Turmites#0" expanded="false" />
+            <element signature="method#switchTermite#0;class#Turmites#0" expanded="false" />
+            <element signature="method#Turmites#0;class#Turmites#0" expanded="false" />
+            <element signature="e#52208#52224#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Turmites#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Turmites#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Turmites#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Turmites#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Turmites#0" expanded="false" />
+            <element signature="method#mouseReleased#0;class#Turmites#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Turmites#0" expanded="false" />
+            <element signature="method#mouseEntered#0;class#Turmites#0" expanded="false" />
+            <element signature="method#mouseExited#0;class#Turmites#0" expanded="false" />
+            <element signature="method#paint#0;class#Turmites#0" expanded="false" />
+            <element signature="class#Background#0;class#Turmites#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Turmites#0" expanded="false" />
+            <element signature="class#Snake#0" expanded="false" />
+            <element signature="class#Position#0;class#Snake#0" expanded="false" />
+            <element signature="method#Position#0;class#Position#0;class#Snake#0" expanded="false" />
+            <element signature="method#update#0;class#Position#0;class#Snake#0" expanded="false" />
+            <element signature="method#makeMap#0;class#Snake#0" expanded="false" />
+            <element signature="method#Snake#0;class#Snake#0" expanded="false" />
+            <element signature="e#57345#57361#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Snake#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Snake#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Snake#0" expanded="false" />
+            <element signature="method#appleCount#0;class#Snake#0" expanded="false" />
+            <element signature="method#updateMap#0;class#Snake#0" expanded="false" />
+            <element signature="method#move#0;class#Snake#0" expanded="false" />
+            <element signature="method#addLength#0;class#Snake#0" expanded="false" />
+            <element signature="method#addApples#0;class#Snake#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Snake#0" expanded="false" />
+            <element signature="method#paint#0;class#Snake#0" expanded="false" />
+            <element signature="class#Background#0;class#Snake#0" expanded="false" />
+            <element signature="method#paintPixel#0;class#Background#0;class#Snake#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Snake#0" expanded="false" />
+            <element signature="class#Pong#0" expanded="false" />
+            <element signature="method#bounce#0;class#Pong#0" expanded="false" />
+            <element signature="method#cheer#0;class#Pong#0" expanded="false" />
+            <element signature="class#Padel#0;class#Pong#0" expanded="false" />
+            <element signature="method#Padel#0;class#Padel#0;class#Pong#0" expanded="false" />
+            <element signature="method#move#0;class#Padel#0;class#Pong#0" expanded="false" />
+            <element signature="method#checkYAI#0;class#Pong#0" expanded="false" />
+            <element signature="method#moveAI#0;class#Pong#0" expanded="false" />
+            <element signature="method#moveBall#0;class#Pong#0" expanded="false" />
+            <element signature="method#addScore#0;class#Pong#0" expanded="false" />
+            <element signature="method#initSounds#0;class#Pong#0" expanded="false" />
+            <element signature="method#Pong#0;class#Pong#0" expanded="false" />
+            <element signature="e#70485#70501#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Pong#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Pong#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Pong#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Pong#0" expanded="false" />
+            <element signature="method#paint#0;class#Pong#0" expanded="false" />
+            <element signature="class#Background#0;class#Pong#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Pong#0" expanded="false" />
+            <element signature="e#72440#72472#0" expanded="false" />
+            <element signature="method#brickSound#0;class#Bricks#0" expanded="false" />
+            <element signature="method#bounceSound#0;class#Bricks#0" expanded="false" />
+            <element signature="class#BrickVector#0;class#Bricks#0" expanded="false" />
+            <element signature="method#element#0;class#BrickVector#0;class#Bricks#0" expanded="false" />
+            <element signature="method#checkIntersect#0;class#Brick#0;class#Bricks#0" expanded="false" />
+            <element signature="method#initSounds#0;class#Bricks#0" expanded="false" />
+            <element signature="e#83451#83467#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Bricks#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Bricks#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Bricks#0" expanded="false" />
+            <element signature="method#paint#0;class#Bricks#0" expanded="false" />
+            <element signature="e#86360#86392#0" expanded="false" />
+            <element signature="class#Tetris#0" expanded="false" />
+            <element signature="class#87237:87686" expanded="false" />
+            <element signature="method#actionPerformed#0;class#87237:87686" expanded="false" />
+            <element signature="method#moveSound#0;class#Tetris#0" expanded="false" />
+            <element signature="method#printSquare#0;class#Tetris#0" expanded="false" />
+            <element signature="class#Position#0;class#Tetris#0" expanded="false" />
+            <element signature="method#Position#0;class#Position#0;class#Tetris#0" expanded="false" />
+            <element signature="method#setPosition#0;class#Position#0;class#Tetris#0" expanded="false" />
+            <element signature="class#Block#0;class#Tetris#0" expanded="false" />
+            <element signature="method#imprint#0;class#Block#0;class#Tetris#0" expanded="false" />
+            <element signature="method#rotate#0;class#Block#0;class#Tetris#0" expanded="false" />
+            <element signature="method#checkOverlap#0;class#Block#0;class#Tetris#0" expanded="false" />
+            <element signature="method#Block#0;class#Block#0;class#Tetris#0" expanded="false" />
+            <element signature="method#print#0;class#Block#0;class#Tetris#0" expanded="false" />
+            <element signature="method#move#0;class#Block#0;class#Tetris#0" expanded="false" />
+            <element signature="method#checkCollision#0;class#Block#0;class#Tetris#0" expanded="false" />
+            <element signature="method#initMap#0;class#Tetris#0" expanded="false" />
+            <element signature="method#checkLine#0;class#Tetris#0" expanded="false" />
+            <element signature="method#clearLine#0;class#Tetris#0" expanded="false" />
+            <element signature="method#checkLines#0;class#Tetris#0" expanded="false" />
+            <element signature="method#moveLine#0;class#Tetris#0" expanded="false" />
+            <element signature="method#printLine#0;class#Tetris#0" expanded="false" />
+            <element signature="method#moveDown#0;class#Tetris#0" expanded="false" />
+            <element signature="method#drawBorders#0;class#Tetris#0" expanded="false" />
+            <element signature="method#initSounds#0;class#Tetris#0" expanded="false" />
+            <element signature="method#Tetris#0;class#Tetris#0" expanded="false" />
+            <element signature="e#100065#100081#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Tetris#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Tetris#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Tetris#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Tetris#0" expanded="false" />
+            <element signature="method#paint#0;class#Tetris#0" expanded="false" />
+            <element signature="class#Background#0;class#Tetris#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Tetris#0" expanded="false" />
+            <element signature="class#Tanks#0" expanded="false" />
+            <element signature="method#shellFire#0;class#Tanks#0" expanded="false" />
+            <element signature="method#shellImpact#0;class#Tanks#0" expanded="false" />
+            <element signature="method#tankExplode#0;class#Tanks#0" expanded="false" />
+            <element signature="method#collideSound#0;class#Tanks#0" expanded="false" />
+            <element signature="method#collectSound#0;class#Tanks#0" expanded="false" />
+            <element signature="class#Display#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Display#0;class#Display#0;class#Tanks#0" expanded="false" />
+            <element signature="method#update#0;class#Display#0;class#Tanks#0" expanded="false" />
+            <element signature="method#getPointer#0;class#Display#0;class#Tanks#0" expanded="false" />
+            <element signature="method#drawCross#0;class#Display#0;class#Tanks#0" expanded="false" />
+            <element signature="method#printShot#0;class#Display#0;class#Tanks#0" expanded="false" />
+            <element signature="method#print#0;class#Display#0;class#Tanks#0" expanded="false" />
+            <element signature="class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#remove#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#getSpeed#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Projectile#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Projectile#1;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#initImage#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#move#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#makeImage#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#print#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="method#checkIntersect#0;class#Projectile#0;class#Tanks#0" expanded="false" />
+            <element signature="class#Shot#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Shot#0;class#Shot#0;class#Tanks#0" expanded="false" />
+            <element signature="method#addSpread#0;class#Shot#0;class#Tanks#0" expanded="false" />
+            <element signature="class#Salvage#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Salvage#0;class#Salvage#0;class#Tanks#0" expanded="false" />
+            <element signature="method#makeImage#0;class#Salvage#0;class#Tanks#0" expanded="false" />
+            <element signature="method#print#0;class#Salvage#0;class#Tanks#0" expanded="false" />
+            <element signature="method#remove#0;class#Salvage#0;class#Tanks#0" expanded="false" />
+            <element signature="class#Obstacle#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Obstacle#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+            <element signature="e#125985#126086#0" expanded="false" />
+            <element signature="method#setupImage#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+            <element signature="method#explode#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+            <element signature="method#print#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+            <element signature="method#printTop#0;class#Obstacle#0;class#Tanks#0" expanded="false" />
+            <element signature="class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Order#0;class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#setToAttack#0;class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#setToFollow#0;class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#setToHold#0;class#Order#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#explode#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Tank#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#copy#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Tank#1;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#fire#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#shot#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#updateTarget#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#getPriority#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#doAI#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#selectShot#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#checkCrossFire#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#checkIntersect#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#checkIntersect#1;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#checkIntersect#2;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#checkIntersect#3;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#controls#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#slow#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#remove#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#move#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#getLineAngle#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#collide#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#collide#1;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#makeImage#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="e#164151#164167#0" expanded="false" />
+            <element signature="e#164316#164364#0" expanded="false" />
+            <element signature="method#makeTurret#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#printBase#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#printBaseColors#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#printTurret#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#printStripes#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="method#printFlag#0;class#Tank#0;class#Tanks#0" expanded="false" />
+            <element signature="class#TempText#0;class#Tanks#0" expanded="false" />
+            <element signature="method#TempText#0;class#TempText#0;class#Tanks#0" expanded="false" />
+            <element signature="method#print#0;class#TempText#0;class#Tanks#0" expanded="false" />
+            <element signature="class#ProjectileVector#0;class#Tanks#0" expanded="false" />
+            <element signature="method#element#0;class#ProjectileVector#0;class#Tanks#0" expanded="false" />
+            <element signature="class#TankVector#0;class#Tanks#0" expanded="false" />
+            <element signature="method#element#0;class#TankVector#0;class#Tanks#0" expanded="false" />
+            <element signature="class#LineVector#0;class#Tanks#0" expanded="false" />
+            <element signature="method#element#0;class#LineVector#0;class#Tanks#0" expanded="false" />
+            <element signature="class#SalvageVector#0;class#Tanks#0" expanded="false" />
+            <element signature="method#element#0;class#SalvageVector#0;class#Tanks#0" expanded="false" />
+            <element signature="class#TempTextVector#0;class#Tanks#0" expanded="false" />
+            <element signature="method#element#0;class#TempTextVector#0;class#Tanks#0" expanded="false" />
+            <element signature="class#ObstacleVector#0;class#Tanks#0" expanded="false" />
+            <element signature="method#element#0;class#ObstacleVector#0;class#Tanks#0" expanded="false" />
+            <element signature="class#LevelData#0;class#Tanks#0" expanded="false" />
+            <element signature="method#setColors#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+            <element signature="method#LevelData#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+            <element signature="method#resetTanks#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+            <element signature="method#setEnemyAI#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+            <element signature="method#setFriendlyAI#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+            <element signature="method#getEnemy#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+            <element signature="method#getFriendly#0;class#LevelData#0;class#Tanks#0" expanded="false" />
+            <element signature="method#followMouse#0;class#Tanks#0" expanded="false" />
+            <element signature="method#switchTarget#0;class#Tanks#0" expanded="false" />
+            <element signature="method#paintPattern#0;class#Tanks#0" expanded="false" />
+            <element signature="method#paintBackground#0;class#Tanks#0" expanded="false" />
+            <element signature="method#init#0;class#Tanks#0" expanded="false" />
+            <element signature="method#endLevel#0;class#Tanks#0" expanded="false" />
+            <element signature="method#startLevel#0;class#Tanks#0" expanded="false" />
+            <element signature="method#resetPlayer#0;class#Tanks#0" expanded="false" />
+            <element signature="method#initLevel#0;class#Tanks#0" expanded="false" />
+            <element signature="e#183473#183511#0" expanded="false" />
+            <element signature="method#initSounds#0;class#Tanks#0" expanded="false" />
+            <element signature="method#Tanks#0;class#Tanks#0" expanded="false" />
+            <element signature="e#186496#186512#0" expanded="false" />
+            <element signature="method#changeShot#0;class#Tanks#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Tanks#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Tanks#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Tanks#0" expanded="false" />
+            <element signature="e#189173#189226#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Tanks#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Tanks#0" expanded="false" />
+            <element signature="method#mouseEntered#0;class#Tanks#0" expanded="false" />
+            <element signature="method#mouseExited#0;class#Tanks#0" expanded="false" />
+            <element signature="method#mouseMoved#0;class#Tanks#0" expanded="false" />
+            <element signature="method#retryLevel#0;class#Tanks#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Tanks#0" expanded="false" />
+            <element signature="e#196001#196018#0" expanded="false" />
+            <element signature="class#Background#0;class#Tanks#0" expanded="false" />
+            <element signature="method#printLine#0;class#Background#0;class#Tanks#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Tanks#0" expanded="false" />
+            <element signature="class#Circuit#0" expanded="false" />
+            <element signature="class#Point#0;class#Circuit#0" expanded="false" />
+            <element signature="method#Point#0;class#Point#0;class#Circuit#0" expanded="false" />
+            <element signature="method#addLink#0;class#Point#0;class#Circuit#0" expanded="false" />
+            <element signature="class#Gate#0;class#Circuit#0" expanded="false" />
+            <element signature="method#Gate#0;class#Gate#0;class#Circuit#0" expanded="false" />
+            <element signature="method#linkTo#0;class#Gate#0;class#Circuit#0" expanded="false" />
+            <element signature="method#move#0;class#Gate#0;class#Circuit#0" expanded="false" />
+            <element signature="method#remove#0;class#Gate#0;class#Circuit#0" expanded="false" />
+            <element signature="method#setStart#0;class#Gate#0;class#Circuit#0" expanded="false" />
+            <element signature="class#Wire#0;class#Circuit#0" expanded="false" />
+            <element signature="method#setStart#0;class#Wire#0;class#Circuit#0" expanded="false" />
+            <element signature="method#Wire#0;class#Wire#0;class#Circuit#0" expanded="false" />
+            <element signature="method#linkTo#0;class#Wire#0;class#Circuit#0" expanded="false" />
+            <element signature="method#remove#0;class#Wire#0;class#Circuit#0" expanded="false" />
+            <element signature="class#CircuitComponent#0;class#Circuit#0" expanded="false" />
+            <element signature="class#Front#0;class#Circuit#0" expanded="false" />
+            <element signature="method#Front#0;class#Front#0;class#Circuit#0" expanded="false" />
+            <element signature="method#move#0;class#Front#0;class#Circuit#0" expanded="false" />
+            <element signature="method#end#0;class#Front#0;class#Circuit#0" expanded="false" />
+            <element signature="class#GeneralVector#0;class#Circuit#0" expanded="false" />
+            <element signature="method#wire#0;class#GeneralVector#0;class#Circuit#0" expanded="false" />
+            <element signature="method#front#0;class#GeneralVector#0;class#Circuit#0" expanded="false" />
+            <element signature="method#point#0;class#GeneralVector#0;class#Circuit#0" expanded="false" />
+            <element signature="method#gate#0;class#GeneralVector#0;class#Circuit#0" expanded="false" />
+            <element signature="method#getShape#0;class#Circuit#0" expanded="false" />
+            <element signature="method#makeLine#0;class#Circuit#0" expanded="false" />
+            <element signature="method#init#0;class#Circuit#0" expanded="false" />
+            <element signature="method#Circuit#0;class#Circuit#0" expanded="false" />
+            <element signature="e#215190#215206#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Circuit#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Circuit#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Circuit#0" expanded="false" />
+            <element signature="method#setCursor#0;class#Circuit#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Circuit#0" expanded="false" />
+            <element signature="method#mouseMoved#0;class#Circuit#0" expanded="false" />
+            <element signature="method#mouseDragged#0;class#Circuit#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Circuit#0" expanded="false" />
+            <element signature="method#mouseReleased#0;class#Circuit#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Circuit#0" expanded="false" />
+            <element signature="method#mouseEntered#0;class#Circuit#0" expanded="false" />
+            <element signature="method#mouseExited#0;class#Circuit#0" expanded="false" />
+            <element signature="method#paint#0;class#Circuit#0" expanded="false" />
+            <element signature="class#Background#0;class#Circuit#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Circuit#0" expanded="false" />
+            <element signature="class#Test#0" expanded="false" />
+            <element signature="method#shellFire#0;class#Test#0" expanded="false" />
+            <element signature="method#softShellFire#0;class#Test#0" expanded="false" />
+            <element signature="method#shellImpact#0;class#Test#0" expanded="false" />
+            <element signature="method#softShellImpact#0;class#Test#0" expanded="false" />
+            <element signature="method#tankExplode#0;class#Test#0" expanded="false" />
+            <element signature="method#collideSound#0;class#Test#0" expanded="false" />
+            <element signature="method#rocketRelease#0;class#Test#0" expanded="false" />
+            <element signature="method#collectSound#0;class#Test#0" expanded="false" />
+            <element signature="method#homingSound#0;class#Test#0" expanded="false" />
+            <element signature="method#playHoming#0;class#Test#0" expanded="false" />
+            <element signature="method#firingSound#0;class#Test#0" expanded="false" />
+            <element signature="class#GeneralVector#0;class#Test#0" expanded="false" />
+            <element signature="method#shot3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+            <element signature="method#tank3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+            <element signature="method#obstacle3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+            <element signature="method#fragment3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+            <element signature="method#aircraft3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+            <element signature="method#gun#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+            <element signature="method#powerup3D#0;class#GeneralVector#0;class#Test#0" expanded="false" />
+            <element signature="class#Object3D#0;class#Test#0" expanded="false" />
+            <element signature="method#collide#0;class#Object3D#0;class#Test#0" expanded="false" />
+            <element signature="class#Obstacle3D#0;class#Test#0" expanded="false" />
+            <element signature="method#Obstacle3D#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+            <element signature="method#collide#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkIntersect#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkBaseIntersect#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+            <element signature="method#print#0;class#Obstacle3D#0;class#Test#0" expanded="false" />
+            <element signature="class#Fragment3D#0;class#Test#0" expanded="false" />
+            <element signature="method#Fragment3D#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+            <element signature="method#initMomentum#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+            <element signature="method#moveVector#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+            <element signature="method#move#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+            <element signature="method#print#0;class#Fragment3D#0;class#Test#0" expanded="false" />
+            <element signature="class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#PowerUp3D#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#PowerUp3D#1;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkCollision#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkCollision#1;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#move#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#addFriction#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#addWeaponBonus#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#addArmorBonus#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#powerUp#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="method#print#0;class#PowerUp3D#0;class#Test#0" expanded="false" />
+            <element signature="class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#Shot3D#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#Shot3D#1;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkIntersect#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#remove#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkCollision#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#move#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#home#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="e#240401#240480#0" expanded="false" />
+            <element signature="method#initMomentum#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#moveVector#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="method#print#0;class#Shot3D#0;class#Test#0" expanded="false" />
+            <element signature="class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#Aircraft3D#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#getFiringHole#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#initGuns#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#initForm#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#makeFragments#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkCollision#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkRotorHit#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkIntersect#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkBaseIntersect#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkIntersect#1;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#controls#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#spinRotor#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#move#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#moveDirection#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="method#print#0;class#Aircraft3D#0;class#Test#0" expanded="false" />
+            <element signature="class#MammothTank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#MammothTank3D#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#getFiringHole#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#initGuns#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#initForm#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#getFiringHoles#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#makeFragments#0;class#MammothTank3D#0;class#Test#0" expanded="false" />
+            <element signature="class#Objective#0;class#Test#0" expanded="false" />
+            <element signature="method#Objective#0;class#Objective#0;class#Test#0" expanded="false" />
+            <element signature="method#askToAttack#0;class#Objective#0;class#Test#0" expanded="false" />
+            <element signature="method#setToAttack#0;class#Objective#0;class#Test#0" expanded="false" />
+            <element signature="method#setToFollow#0;class#Objective#0;class#Test#0" expanded="false" />
+            <element signature="method#clear#0;class#Objective#0;class#Test#0" expanded="false" />
+            <element signature="method#setToHold#0;class#Objective#0;class#Test#0" expanded="false" />
+            <element signature="method#askToHold#0;class#Objective#0;class#Test#0" expanded="false" />
+            <element signature="class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="class#Commands#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#Tank3D#1;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#addLoot#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#initGuns#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#initForm#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#initMaxDistance#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkCollision#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkIntersect#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkBaseIntersect#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#checkIntersect#1;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#collide#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#hit#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#dropLoot#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#makeFragments#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#explode#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#resetRandomOffset#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#setFiringDelay#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#findTarget#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#chooseGun#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#getFiringHole#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#doAI#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#decrementCounters#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#addTanksMomentum#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#move#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#getFiringHoles#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#moveDirection#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#controls#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="method#print#0;class#Tank3D#0;class#Test#0" expanded="false" />
+            <element signature="class#Gun#0;class#Test#0" expanded="false" />
+            <element signature="method#Gun#0;class#Gun#0;class#Test#0" expanded="false" />
+            <element signature="method#Gun#1;class#Gun#0;class#Test#0" expanded="false" />
+            <element signature="method#Gun#2;class#Gun#0;class#Test#0" expanded="false" />
+            <element signature="method#fire#0;class#Gun#0;class#Test#0" expanded="false" />
+            <element signature="class#Display#0;class#Test#0" expanded="false" />
+            <element signature="method#Display#0;class#Display#0;class#Test#0" expanded="false" />
+            <element signature="method#update#0;class#Display#0;class#Test#0" expanded="false" />
+            <element signature="method#printCircle#0;class#Display#0;class#Test#0" expanded="false" />
+            <element signature="method#getColor#0;class#Display#0;class#Test#0" expanded="false" />
+            <element signature="method#print#0;class#Display#0;class#Test#0" expanded="false" />
+            <element signature="e#298080#298100#0" expanded="false" />
+            <element signature="class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#ShotType#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setLaunchOffset#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setSpeed#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setDamage#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setFragments#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setRange#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setAngles#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setReload#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setHoming#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="method#setSound#0;class#ShotType#0;class#Test#0" expanded="false" />
+            <element signature="class#Shake#0;class#Test#0" expanded="false" />
+            <element signature="method#Shake#0;class#Shake#0;class#Test#0" expanded="false" />
+            <element signature="method#getGreekAlphabet#0;class#Test#0" expanded="false" />
+            <element signature="method#printShape#0;class#Test#0" expanded="false" />
+            <element signature="method#shakeCamera#0;class#Test#0" expanded="false" />
+            <element signature="method#switchTarget#0;class#Test#0" expanded="false" />
+            <element signature="method#getRandomPos#0;class#Test#0" expanded="false" />
+            <element signature="method#spawnWave#0;class#Test#0" expanded="false" />
+            <element signature="method#initShots#0;class#Test#0" expanded="false" />
+            <element signature="method#getRandomPositionInCircle#0;class#Test#0" expanded="false" />
+            <element signature="method#init#0;class#Test#0" expanded="false" />
+            <element signature="method#initSounds#0;class#Test#0" expanded="false" />
+            <element signature="method#Test#0;class#Test#0" expanded="false" />
+            <element signature="e#318942#318958#0" expanded="false" />
+            <element signature="method#mouseTarget#0;class#Test#0" expanded="false" />
+            <element signature="e#322909#322920#0" expanded="false" />
+            <element signature="method#shake#0;class#Test#0" expanded="false" />
+            <element signature="method#cameraControls#0;class#Test#0" expanded="false" />
+            <element signature="method#shiftGrid#0;class#Test#0" expanded="false" />
+            <element signature="method#move#0;class#Test#0" expanded="false" />
+            <element signature="e#326578#326654#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#Test#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#Test#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#Test#0" expanded="false" />
+            <element signature="method#checkCollision#0;class#Test#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Test#0" expanded="false" />
+            <element signature="method#switchGun#0;class#Test#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Test#0" expanded="false" />
+            <element signature="method#mouseReleased#0;class#Test#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Test#0" expanded="false" />
+            <element signature="method#mouseEntered#0;class#Test#0" expanded="false" />
+            <element signature="method#mouseExited#0;class#Test#0" expanded="false" />
+            <element signature="method#mouseMoved#0;class#Test#0" expanded="false" />
+            <element signature="method#mouseDragged#0;class#Test#0" expanded="false" />
+            <element signature="method#printRadar#0;class#Test#0" expanded="false" />
+            <element signature="method#makeDisplay#0;class#Test#0" expanded="false" />
+            <element signature="class#Background#0;class#Test#0" expanded="false" />
+            <element signature="method#printLine#0;class#Background#0;class#Test#0" expanded="false" />
+            <element signature="method#paintComponent#0;class#Background#0;class#Test#0" expanded="false" />
+            <element signature="e#340819#340863#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-dev.html">
+    <entry file="file://$PROJECT_DIR$/lib/src/main/scala/scala/js/lib.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="170" selection-end="224" vertical-scroll-proportion="-5.8846154">
+        <state line="2579" column="4" selection-start="102835" selection-end="102835" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/main/scala/scala/js/Html.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="952" column="6" selection-start="31507" selection-end="31507" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.2-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="7" selection-start="4161" selection-end="4161" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Primitives.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="256" column="13" selection-start="8335" selection-end="8335" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Asteroids.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="38" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#17#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/BrickBreaker.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="53" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#17#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Snake.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="36" selection-start="1992" selection-end="2013" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#17#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/AstroLander.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="1273" selection-end="1273" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Pong.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="19" selection-start="588" selection-end="588" vertical-scroll-proportion="-13.28">
+          <folding>
+            <element signature="e#17#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="4" selection-start="2807" selection-end="2901" vertical-scroll-proportion="0.0">
+        <state line="78" column="0" selection-start="2341" selection-end="2341" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#16#33#0" expanded="true" />
           </folding>
@@ -876,21 +1814,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="58" selection-start="224" selection-end="224" vertical-scroll-proportion="-5.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/startup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-dev.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="12" selection-start="803" selection-end="803" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="76" selection-end="76" vertical-scroll-proportion="0.12862547">
           <folding />
         </state>
       </provider>
@@ -960,6 +1898,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>SBT: ch.epfl.lamp:scalajs-compiler_2.10:0.1-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
