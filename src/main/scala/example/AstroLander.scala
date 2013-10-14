@@ -116,7 +116,7 @@ case class AstroLander(bounds: Point, resetGame: () => Unit) extends Game{
       else{
         val prev = points(prevIndex)
         val next = points(prevIndex + 1)
-        val height = (next.x - craftPos.x) / (next.x - prev.x) * (next.y - prev.y) + prev.y
+        val height = (craftPos.x - prev.x) / (next.x - prev.x) * (next.y - prev.y) + prev.y
         if (height > craftPos.y) None
         else Some{
           val groundGradient = math.abs((next.y - prev.y) / (next.x - prev.x))

@@ -7,7 +7,7 @@
     HTML5 Canvas</a>. The original games can be found <a href="https://github.com/lihaoyi/Java-Games/blob/master/GameLibrary/GameLibrary.java">
     here</a> and targeting Java/Swing. Although this is basically a
     complete rewrite, the user-facing side of the game should be exactly
-    the same.
+    the same. Try out the <a href="http://lihaoyi.github.io/scala-js-games/">live demo</a>
 </p>
 
 <p>
