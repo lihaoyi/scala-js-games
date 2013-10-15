@@ -148,15 +148,7 @@ case class Tetris(bounds: Point, resetGame: () => Unit) extends Game{
   def draw(ctx: CanvasRenderingContext2D): Unit = {
     ctx.fillStyle = Color.Black
     ctx.fillRect(0, 0, bounds.x, bounds.y)
-    ctx.strokeStyle = Color.White
-    ctx.strokePath(
-      Point(leftBorder, 0),
-      Point(leftBorder, bounds.y)
-    )
-    ctx.strokePath(
-      Point(bounds.x - leftBorder, 0),
-      Point(bounds.x - leftBorder, bounds.y)
-    )
+
 
     ctx.textAlign = "left"
     ctx.fillStyle = Color.White
@@ -186,5 +178,15 @@ case class Tetris(bounds: Point, resetGame: () => Unit) extends Game{
     }
     draw(currentPiece, piecePos, external = false)
     draw(nextPiece, Point(18, 9), external = true)
+
+    ctx.strokeStyle = Color.White
+    ctx.strokePath(
+      Point(leftBorder, 0),
+      Point(leftBorder, bounds.y)
+    )
+    ctx.strokePath(
+      Point(bounds.x - leftBorder, 0),
+      Point(bounds.x - leftBorder, bounds.y)
+    )
   }
 }
