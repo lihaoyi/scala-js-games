@@ -3,5 +3,5 @@ target/
 .classpath
 .project
 .settings/
-.idea
-.idea_modules
+.idea/
+.idea_modules/

@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" name="Default" comment="Games work!">
-      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Css.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Html.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Idb.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Ms.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Svg.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\lib.scala" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Build.scala" afterPath="$PROJECT_DIR$/project/Build.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scala-js-example-app.iws" />
@@ -697,7 +690,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="5" selection-start="51" selection-end="51" vertical-scroll-proportion="0.10506798">
+            <state line="6" column="14" selection-start="67" selection-end="67" vertical-scroll-proportion="0.12608159">
               <folding />
             </state>
           </provider>
@@ -1696,7 +1689,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="5" selection-start="51" selection-end="51" vertical-scroll-proportion="0.10506798">
+        <state line="6" column="14" selection-start="67" selection-end="67" vertical-scroll-proportion="0.12608159">
           <folding />
         </state>
       </provider>
