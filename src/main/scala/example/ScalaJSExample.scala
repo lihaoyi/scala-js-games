@@ -13,6 +13,16 @@ object Color{
   val Magenta = rgb(255, 0, 255)
   val Yellow = rgb(255, 255, 0)
   val Black = rgb(0, 0, 0)
+  val all = Seq(
+    White,
+    Red,
+    Green,
+    Blue,
+    Cyan,
+    Magenta,
+    Yellow,
+    Black
+  )
 }
 
 case class Point(x: Double, y: Double){
@@ -28,9 +38,9 @@ case class Point(x: Double, y: Double){
   def lengthSquared = x * x + y * y
   def within(a: Point, b: Point, extra: Point = Point(0, 0)) = {
     import math.{min, max}
-    x > min(a.x, b.x) - extra.x &&
+    x >= min(a.x, b.x) - extra.x &&
     x < max(a.x, b.x) + extra.y &&
-    y > min(a.y, b.y) - extra.x &&
+    y >= min(a.y, b.y) - extra.x &&
     y < max(a.y, b.y) + extra.y
   }
   def rotate(theta: Double) = {
@@ -47,12 +57,12 @@ class GameHolder(canvasName: String, gameMaker: (Point, () => Unit) => Game){
 
   canvas.onkeydown = {(e: KeyboardEvent) =>
     keys.add(e.keyCode.toInt)
-    e.preventDefault()
+    if (Seq(32, 37, 38, 39, 40).contains(e.keyCode.toInt)) e.preventDefault()
     message = None
   }
   canvas.onkeyup = {(e: KeyboardEvent) =>
     keys.remove(e.keyCode.toInt)
-    e.preventDefault()
+    if (Seq(32, 37, 38, 39, 40).contains(e.keyCode.toInt)) e.preventDefault()
   }
 
   canvas.onfocus = {(e: FocusEvent) =>
@@ -126,7 +136,8 @@ object ScalaJSExample {
     val snake = new GameHolder("snake", Snake)
     val pong = new GameHolder("pong", Pong)
     val bricks = new GameHolder("bricks", BrickBreaker)
-    val games = Seq(asteroids, astrolander, snake, pong, bricks)
+    val tetris = new GameHolder("tetris", Tetris)
+    val games = Seq(asteroids, astrolander, snake, pong, bricks, tetris)
     JsGlobals.setInterval(() => games.foreach(_.update()), 15)
   }
 }

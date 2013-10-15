@@ -89,10 +89,11 @@ case class AstroLander(bounds: Point, resetGame: () => Unit) extends Game{
     }
 
     ctx.strokeStyle = Color.Red
-
-    if (lastKeys(37)) drawFlame(craftPos, theta + math.Pi / 4)
-    if (lastKeys(39)) drawFlame(craftPos, theta - math.Pi / 4)
-    if (lastKeys(40)) drawFlame(craftPos, theta)
+    if (fuel > 0){
+      if (lastKeys(37)) drawFlame(craftPos, theta + math.Pi / 4)
+      if (lastKeys(39)) drawFlame(craftPos, theta - math.Pi / 4)
+      if (lastKeys(40)) drawFlame(craftPos, theta)
+    }
 
   }
   var lastKeys: Set[Int] = Set()
