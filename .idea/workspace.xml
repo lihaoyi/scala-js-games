@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" name="Default" comment="Games work!">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/Tetris.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/AstroLander.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/AstroLander.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-dev.html" afterPath="$PROJECT_DIR$/index-dev.html" />
+      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Css.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Html.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Idb.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Ms.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\Svg.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dropbox\Workspace\scala-js-games\lib\src\main\scala\scala\js\lib.scala" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Build.scala" afterPath="$PROJECT_DIR$/project/Build.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scala-js-example-app.iws" />
@@ -14,7 +18,7 @@
     <file path="/ScalaJSExample.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381803730413" ignored="false" />
     <file path="$PROJECT_DIR$/../scala-js-ts-importer/src/test/resources/lib.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1380696682755" ignored="false" />
     <file path="/lib.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381647941501" ignored="false" />
-    <file path="/Build.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381680057809" ignored="false" />
+    <file path="/Build.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381804235706" ignored="false" />
     <file path="/Build.Scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381642883122" ignored="false" />
     <file path="/index-dev.html" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381803969179" ignored="false" />
     <file path="/Html.scala" changelist="7bac7386-c40a-4ef5-9cb1-eb8d938664ad" time="1381774747699" ignored="false" />
@@ -670,22 +674,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Snake.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/example/Snake.scala">
+      <file leaf-file-name="index-dev.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-dev.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="7" selection-start="2445" selection-end="2445" vertical-scroll-proportion="0.0">
+            <state line="42" column="80" selection-start="2363" selection-end="2363" vertical-scroll-proportion="-19.192308">
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Build.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/Build.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="53" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-dev.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index-dev.html">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="80" selection-start="2363" selection-end="2363" vertical-scroll-proportion="0.648052">
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="5" column="5" selection-start="51" selection-end="51" vertical-scroll-proportion="0.10506798">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RootProject.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.2/org.scala-sbt/sbt/0.13.0/main-settings-0.13.0.jar!/sbt/RootProject.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="6" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.72">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -710,24 +732,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="1" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Array.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.2-sources.jar!/scala/Array.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="315" column="6" selection-start="11284" selection-end="11284" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -746,8 +750,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../../Archive/Coding/Java Test Folder/GameLibrary/GameLibrary.java" />
-        <option value="$PROJECT_DIR$/lib/src/main/scala/scala/js/Html.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/example/Bricks.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/example/Pong.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/example/BrickBreaker.scala" />
@@ -762,6 +764,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/example/ScalaJSExample.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/example/Tetris.scala" />
         <option value="$PROJECT_DIR$/index-dev.html" />
+        <option value="$PROJECT_DIR$/project/Build.scala" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -868,23 +872,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -987,7 +975,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1000,7 +988,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.395" sideWeight="0.6703297" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.395" sideWeight="0.6703297" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1074,23 +1062,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.2-sources.jar!/scala/Predef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="7" selection-start="4161" selection-end="4161" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/local/ch.epfl.lamp/scalajs-library_2.10/0.1-SNAPSHOT/srcs/scalajs-library_2.10-sources.jar!/scala/js/Primitives.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="256" column="13" selection-start="8335" selection-end="8335" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="20" selection-start="0" selection-end="6591" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="75" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0" />
@@ -1702,10 +1673,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index-dev.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="80" selection-start="2363" selection-end="2363" vertical-scroll-proportion="0.648052">
+        <state line="42" column="80" selection-start="2363" selection-end="2363" vertical-scroll-proportion="-19.192308">
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.2/org.scala-sbt/sbt/0.13.0/main-settings-0.13.0.jar!/sbt/RootProject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.72">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Build.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="53" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="51" selection-end="51" vertical-scroll-proportion="0.10506798">
+          <folding />
         </state>
       </provider>
     </entry>

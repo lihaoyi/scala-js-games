@@ -12,10 +12,5 @@ object Build extends sbt.Build {
       baseDirectory.value / "js" / "startup.js"
   ).dependsOn(lib)
 
-  lazy val lib = project.settings(
-    scalaJSSettings: _*
-  ).settings(
-    name := "lib"
-  )
-
+  lazy val lib = RootProject(file("../scala-js-dom"))
 }
