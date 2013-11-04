@@ -1,7 +1,8 @@
 package example
-import scala.js._
+import scala.scalajs.js._
 import scala.collection.mutable
-import scala.js.Any._
+import scala.scalajs.js.Any._
+import scala.scalajs.js.Math
 
 object Color{
   def rgb(r: Int, g: Int, b: Int) = s"rgb($r, $g, $b)"

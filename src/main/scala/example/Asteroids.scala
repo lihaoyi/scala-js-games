@@ -1,6 +1,6 @@
 package example
 
-import scala.js.{JsGlobals, CanvasRenderingContext2D, Math}
+import scala.scalajs.js.{JsGlobals, CanvasRenderingContext2D, Math}
 import scala.util.Random
 
 case class Asteroids(bounds: Point, resetGame: () => Unit) extends Game{
