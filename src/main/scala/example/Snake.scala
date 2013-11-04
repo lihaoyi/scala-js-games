@@ -1,6 +1,6 @@
 package example
 
-import scala.js.CanvasRenderingContext2D
+import scala.scalajs.js.CanvasRenderingContext2D
 import scala.util.Random
 
 trait Spot

@@ -1,6 +1,6 @@
 import sbt._
 import Keys._
-import ch.epfl.lamp.sbtscalajs.ScalaJSPlugin._
+import scala.scalajs.sbtplugin.ScalaJSPlugin._
 import ScalaJSKeys._
 
 object Build extends sbt.Build {
