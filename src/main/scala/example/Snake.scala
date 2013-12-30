@@ -1,6 +1,6 @@
 package example
 
-import scala.scalajs.js.CanvasRenderingContext2D
+import org.scalajs.dom
 import scala.util.Random
 
 trait Spot
@@ -36,7 +36,7 @@ case class Snake(bounds: Point, resetGame: () => Unit) extends Game{
 
     apples.sum
   }
-  def draw(ctx: CanvasRenderingContext2D) = {
+  def draw(ctx: dom.CanvasRenderingContext2D) = {
     ctx.fillStyle = "rgb(0, 0, 0)"
     ctx.fillRect(0, 0, 800, 800)
 

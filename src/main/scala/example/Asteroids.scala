@@ -1,6 +1,6 @@
 package example
 
-import scala.scalajs.js.{JsGlobals, CanvasRenderingContext2D, Math}
+import org.scalajs.dom
 import scala.util.Random
 
 case class Asteroids(bounds: Point, resetGame: () => Unit) extends Game{
@@ -64,7 +64,7 @@ case class Asteroids(bounds: Point, resetGame: () => Unit) extends Game{
     }
   }
 
-  def draw(ctx: CanvasRenderingContext2D) = {
+  def draw(ctx: dom.CanvasRenderingContext2D) = {
     ctx.fillStyle = Color.Black
     ctx.fillRect(0, 0, 800, 800)
 
@@ -78,7 +78,7 @@ case class Asteroids(bounds: Point, resetGame: () => Unit) extends Game{
 
 
   class Asteroid(val level: Int, var position: Point, val momentum: Point){
-    def draw(ctx: CanvasRenderingContext2D) = {
+    def draw(ctx: dom.CanvasRenderingContext2D) = {
       val size = 10*level
       ctx.fillRect(position.x - size/2, position.y - size/2, size, size)
     }
@@ -95,7 +95,7 @@ case class Asteroids(bounds: Point, resetGame: () => Unit) extends Game{
   }
 
   class Craft(var position: Point, var momentum: Point, var theta: Double){
-    def draw(ctx: CanvasRenderingContext2D) = {
+    def draw(ctx: dom.CanvasRenderingContext2D) = {
       ctx.beginPath()
       val pts = Seq(
         Point(15, 0).rotate(theta) + position,
@@ -118,7 +118,7 @@ case class Asteroids(bounds: Point, resetGame: () => Unit) extends Game{
     }
   }
   class Bullet(var position: Point, val momentum: Point){
-    def draw(ctx: CanvasRenderingContext2D) = {
+    def draw(ctx: dom.CanvasRenderingContext2D) = {
       ctx.beginPath()
       ctx.moveTo(position.x, position.y)
       val forward = position + momentum * 5.0 / momentum.length

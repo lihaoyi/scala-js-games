@@ -8,9 +8,8 @@ object Build extends sbt.Build {
     scalaJSSettings: _*
   ).settings(
     name := "games",
+    libraryDependencies += "org.scala-lang.modules.scalajs" %% "scalajs-dom" % "0.1-SNAPSHOT",
     unmanagedSources in (Compile, ScalaJSKeys.packageJS) +=
       baseDirectory.value / "js" / "startup.js"
-  ).dependsOn(lib)
-
-  lazy val lib = RootProject(file("../scala-js-dom"))
+  )
 }

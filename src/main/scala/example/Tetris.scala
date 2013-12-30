@@ -1,6 +1,6 @@
 package example
 
-import scala.scalajs.js.CanvasRenderingContext2D
+import org.scalajs.dom.CanvasRenderingContext2D
 import scala.util.Random
 
 case class Tetris(bounds: Point, resetGame: () => Unit) extends Game{

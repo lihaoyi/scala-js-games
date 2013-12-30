@@ -1,5 +1,6 @@
 package example
 import scala.scalajs.js._
+import org.scalajs.dom
 import scala.collection.mutable
 import scala.scalajs.js.Any._
 import scala.scalajs.js.Math
@@ -51,29 +52,29 @@ case class Point(x: Double, y: Double){
 }
 
 class GameHolder(canvasName: String, gameMaker: (Point, () => Unit) => Game){
-  private[this] val canvas = JsGlobals.window.document.getElementById(canvasName).asInstanceOf[HTMLCanvasElement]
+  private[this] val canvas = dom.document.getElementById(canvasName).asInstanceOf[dom.HTMLCanvasElement]
   private[this] val bounds = Point(canvas.width, canvas.height)
   private[this] val keys = mutable.Set.empty[Int]
   var game: Game = gameMaker(bounds, () => resetGame())
 
-  canvas.onkeydown = {(e: KeyboardEvent) =>
+  canvas.onkeydown = {(e: dom.KeyboardEvent) =>
     keys.add(e.keyCode.toInt)
     if (Seq(32, 37, 38, 39, 40).contains(e.keyCode.toInt)) e.preventDefault()
     message = None
   }
-  canvas.onkeyup = {(e: KeyboardEvent) =>
+  canvas.onkeyup = {(e: dom.KeyboardEvent) =>
     keys.remove(e.keyCode.toInt)
     if (Seq(32, 37, 38, 39, 40).contains(e.keyCode.toInt)) e.preventDefault()
   }
 
-  canvas.onfocus = {(e: FocusEvent) =>
+  canvas.onfocus = {(e: dom.FocusEvent) =>
     active = true
   }
-  canvas.onblur = {(e: FocusEvent) =>
+  canvas.onblur = {(e: dom.FocusEvent) =>
     active = false
   }
 
-  private[this] val ctx = canvas.getContext("2d").asInstanceOf[CanvasRenderingContext2D]
+  private[this] val ctx = canvas.getContext("2d").asInstanceOf[dom.CanvasRenderingContext2D]
   var active = false
   var firstFrame = false
   def update() = {
@@ -109,10 +110,10 @@ abstract class Game{
   var result: Option[String] = None
   def update(keys: Set[Int]): Unit
 
-  def draw(ctx: CanvasRenderingContext2D): Unit
+  def draw(ctx: dom.CanvasRenderingContext2D): Unit
 
 
-  implicit class pimpedContext(val ctx: CanvasRenderingContext2D){
+  implicit class pimpedContext(val ctx: dom.CanvasRenderingContext2D){
     def fillCircle(x: Double, y: Double, r: Double) = {
       ctx.beginPath()
       ctx.arc(x, y, r, 0, math.Pi * 2)
@@ -139,6 +140,6 @@ object ScalaJSExample {
     val bricks = new GameHolder("bricks", BrickBreaker)
     val tetris = new GameHolder("tetris", Tetris)
     val games = Seq(asteroids, astrolander, snake, pong, bricks, tetris)
-    JsGlobals.setInterval(() => games.foreach(_.update()), 15)
+    dom.setInterval(() => games.foreach(_.update()), 15)
   }
 }

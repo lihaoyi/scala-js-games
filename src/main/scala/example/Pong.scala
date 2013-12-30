@@ -1,6 +1,6 @@
 package example
 
-import scala.scalajs.js.CanvasRenderingContext2D
+import org.scalajs.dom
 import scala.util.Random
 
 
@@ -57,7 +57,7 @@ case class Pong(bounds: Point, resetGame: () => Unit) extends Game{
       )
     }
   }
-  def draw(ctx: CanvasRenderingContext2D) = {
+  def draw(ctx: dom.CanvasRenderingContext2D) = {
     ctx.fillStyle = Color.Black
     ctx.fillRect(0, 0, bounds.x, bounds.y)
 

@@ -1,6 +1,6 @@
 package example
 
-import scala.scalajs.js.{JsGlobals, CanvasRenderingContext2D, Math}
+import org.scalajs.dom
 import scala.util.Random
 
 case class AstroLander(bounds: Point, resetGame: () => Unit) extends Game{
@@ -45,7 +45,7 @@ case class AstroLander(bounds: Point, resetGame: () => Unit) extends Game{
     craftPos + Point(7, 0).rotate(theta + 127.5/180 * Math.PI),
     craftPos + Point(7, 0).rotate(theta - 127.5/180 * Math.PI)
   )
-  def draw(ctx: CanvasRenderingContext2D) = {
+  def draw(ctx: dom.CanvasRenderingContext2D) = {
     ctx.textAlign = "left"
     ctx.fillStyle = Color.Black
     ctx.fillRect(0, 0, bounds.x, bounds.y)
