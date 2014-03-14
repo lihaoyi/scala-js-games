@@ -4,6 +4,7 @@ import org.scalajs.dom
 import scala.collection.mutable
 import scala.scalajs.js.Any._
 import scala.scalajs.js.Math
+import annotation.JSExport
 
 object Color{
   def rgb(r: Int, g: Int, b: Int) = s"rgb($r, $g, $b)"
@@ -130,8 +131,9 @@ abstract class Game{
     }
   }
 }
-
+@JSExport
 object ScalaJSExample {
+  @JSExport
   def main(): Unit = {
     val asteroids = new GameHolder("asteroids", Asteroids)
     val astrolander = new GameHolder("astrolander", AstroLander)
