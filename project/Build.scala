@@ -8,6 +8,6 @@ object Build extends sbt.Build {
     scalaJSSettings: _*
   ).settings(
     name := "games",
-    libraryDependencies += "org.scala-lang.modules.scalajs" %% "scalajs-dom" % "0.4"
+    libraryDependencies += "org.scala-lang.modules.scalajs" %%% "scalajs-dom" % "0.6"
   )
 }
