@@ -1,10 +1,11 @@
 package example
 import scala.scalajs.js._
 import org.scalajs.dom
+
 import scala.collection.mutable
 import scala.scalajs.js.Any._
 import scala.scalajs.js.Math
-import annotation.JSExport
+import annotation.{JSExport, JSExportTopLevel}
 
 object Color{
   def rgb(r: Int, g: Int, b: Int) = s"rgb($r, $g, $b)"
@@ -53,7 +54,7 @@ case class Point(x: Double, y: Double){
 }
 
 class GameHolder(canvasName: String, gameMaker: (Point, () => Unit) => Game){
-  private[this] val canvas = dom.document.getElementById(canvasName).asInstanceOf[dom.HTMLCanvasElement]
+  private[this] val canvas = dom.document.getElementById(canvasName).asInstanceOf[dom.html.Canvas]
   private[this] val bounds = Point(canvas.width, canvas.height)
   private[this] val keys = mutable.Set.empty[Int]
   var game: Game = gameMaker(bounds, () => resetGame())
@@ -131,10 +132,10 @@ abstract class Game{
     }
   }
 }
-@JSExport
+@JSExportTopLevel("ScalaJSExample")
 object ScalaJSExample {
   @JSExport
-  def main(): Unit = {
+  def main(args: Array[String]): Unit = {
     val asteroids = new GameHolder("asteroids", Asteroids)
     val astrolander = new GameHolder("astrolander", AstroLander)
     val snake = new GameHolder("snake", Snake)
@@ -142,6 +143,6 @@ object ScalaJSExample {
     val bricks = new GameHolder("bricks", BrickBreaker)
     val tetris = new GameHolder("tetris", Tetris)
     val games = Seq(asteroids, astrolander, snake, pong, bricks, tetris)
-    dom.setInterval(() => games.foreach(_.update()), 15)
+    dom.window.setInterval(() => games.foreach(_.update()), 15)
   }
 }
