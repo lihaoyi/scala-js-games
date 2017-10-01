@@ -1,6 +1,7 @@
 package example
 
 import org.scalajs.dom
+
 import scala.util.Random
 
 case class Brick(pos: Point,
